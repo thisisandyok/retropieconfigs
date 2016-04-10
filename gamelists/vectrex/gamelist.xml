@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./crzycstr.bin</path>
+		<name>3D Crazy Coaster</name>
+		<desc>3D Crazy Coaster was a video game for the Vectrex, an early video game console owned by Milton Bradley Company. Released in 1983, 3D Crazy Coaster made use of vector graphics, presenting a three-dimensional playing environment. It was originally designed for use with CGE s Imager glasses.[1]
+
+The user controlled the movements of a passenger in the lead car of a roller coaster as it plummets down steep hills and careers around sharp curves. One goal of the game was to keep the passenger s arms raised throughout the ride without being flung out.</desc>
+		<image>~/RetroPie/roms/images/3DCrazyCoasterVCX.jpg</image>
+		<releasedate></releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./nrrwescp.bin</path>
+		<name>3D Narrow Escape</name>
+		<desc>The goal in 3D Narrow Escape is to successfully navigate a ship through the narrow, fast-moving passages of the warlord s fortress, destroy the defense forces and avoid space debris. The player s ship must also be maneuvered through small holes in a series of walls where fuel cells can be picked up to restore the ship s constantly decreasing fuel supply. If the player pilots their ship successfully, they will be faced with the warlord s own escape ship which must be hit several times to be destroyed, liberating the star system from the warlord s tyranny.
+
+Each level becomes more difficult as everything will move faster, fuel will be consumed more quickly, the holes in the walls will become smaller, and more menacing defense forces will appear.
+
+Each level of game play consists of two phases:
+
+1. Passages: During the first phase of each level, the player must maneuver their ship through the narrow, moving passages with the joystick while shooting six of the warlord s defense forces with button 4. If any of the six are missed, they will go off-screen and be recycled to give the player another chance, but more fuel will be used. In addition to various defense forces which must be destroyed, there are extra targets that can be shot for additional points. Unlike the regular defense forces, the extra targets are non-threatening in that they will not shoot or crash into the player s ship. During this phase, space debris will also be shooting up through the play field. Space debris cannot be shot and can only be avoided by dodging it by moving from side to side. The walls of the narrow passage are also a danger to the player. If the player s ship crashes into a wall, a life will be lost. There are gaps between the moving walls which the player can maneuver quickly into and out of so as to avoid approaching enemies or space debris, however as game play becomes faster this will present a higher risk to crashing into oncoming walls.
+
+2. Walls: If the passages are successfully navigated and the the required six defense forces are destroyed, the player will enter the second phase. This is a series of walls with holes. In the first level of the game, there are five successive walls, each with one hole through which the player must maneuver their ship. In the second level of play, there will be six successive walls, in the third level, seven walls, etc. Also the size of the holes will become smaller in each new level. The hole will be in a different location on each wall. After passing through the hole in each wall (but prior to entering the hole in the next wall) there will be a fuel cell which must be passed to pick up. If the fuel cells are missed, the game will continue, but the fuel gauge will be continuously depleting. Note: in early levels of the game, all of the fuel cells will not need to be captured. However as the game progresses and fuel is consumed faster, all of the fuel cells will need to be captured in order to make it through the next level.
+
+After successfully completing three levels of play, the player will come face-to-face with the warlord s escape ship in open space. The warlord s ship must be shot five times to be destroyed during the first encounter, seven times on the next encounter, nine times the next, etc. The warlord s ship will shoot torpedoes at the player s ship, which can be either avoided or shot at to be destroyed. If the warlord s escape ship is destroyed, the player will enter the next level of play and the game will continue.</desc>
+		<image>~/RetroPie/roms/images/3DNarrowEscapeVCX.jpg</image>
+		<releasedate>1983</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./animactn.bin</path>
+		<name>AnimAction</name>
+		<desc>AnimAction is one of the Vectrex titles that requires the light pen accessory to operate. The light pen pack-in cartridge Art Master, only had rudimentary animation capabilities... AnimAction takes animating your vector based artwork to another level.
+An interesting fact about the AnimAction cartridge is that it is not an any of the the aftermarket multi-carts because it had extra memory built in to save your artwork, making it a more desirable program cartridge for your Vectrex collection. let s face it... there is something cool about seeing your own art moving about on the screen of a gaming console that is over a quarter century old!
+This is one of the software releases where GCE broke out of the  games only  mold and endeavored to make more interactive and educational programs for this awesome vector based platform.</desc>
+		<image>~/RetroPie/roms/images/AnimActionVCX.jpg</image>
+		<releasedate>1983</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./armora.bin</path>
+		<name>Armor Attack</name>
+		<desc>Armor Attack is a top-down vector shoot  em up arcade game released by Cinematronics in 1980, licensed to Sega in Japan. The game was originally released as a coin-operated arcade cabinet. It was also licensed for conversion to the Vectrex video game console.
+
+The player controls a jeep and must destroy the many tanks and helicopters that attack them in a maze-like cityscape. The jeep is armed with a rocket launcher that fires straight forward; the player can have two rockets on-screen at the time. The driving is generally similar to the well-known Combat for the Atari 2600.
+
+Tanks periodically spawn from different locations on the edge of the screen and drive towards the player. The tanks always travel along horizontal or vertical lines, unlike the freely moving jeep. Tank turrets move to track the player, allowing them to shoot in any direction. Tanks normally take two hits to kill, and the player can have only two rockets on the screen at a time. The helicopter spawns from any point, and approaches the player in looping paths flying over the jeep and periodically firing. If hit, the helicopter spirals in.
+
+The player can be killed by being shot by either the tanks of helicopter, or by colliding with the tanks. In two-player mode, the players can not kill each other. Gameplay periodically speeds up to increase the difficulty.</desc>
+		<image>~/RetroPie/roms/images/ArmorAttackVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./artmastr.bin</path>
+		<name>Art Master</name>
+		<desc>ART MASTER is a high performance, state-of-the-art experience that takes you into a world of art exploration you ve never seen before! Finally, sketching comes of age... and your creativity comes to life.
+Advanced electronics technology now makes it possible for you to design, draw, and animate your own art! Draw a bird. Then watch it fly! Sketch a train. Then send it speeding down the railroad tracks! Watch a flower blow in the wind or children walk to school. What you create... you can animate.
+
+You don t have to be a super-artist to use and enjoy Art Master. All you need is a sense of adventure, fun and a little imagination! We ll show you how to make Art Master the key that unlocks all the creativity you ve always known you had!</desc>
+		<image>~/RetroPie/roms/images/ArtMasterVCX.jpg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+	</game>
+	<game>
+		<path>./bedlam.bin</path>
+		<name>Bedlam</name>
+		<desc>In the arcade game Tempest, players controlled a blaster that could move around the outermost lanes of a bunch of geometrically-shaped levels and fire at ships that emerged from the middle or innermost areas of those levels.
+
+Bedlam, however, was a Tempest in reverse, where players ships (resembling the Millennium Falcon from several of the Star Wars movies) sat in the middle of sectors while ships emerge from points of those sectors and came inwards towards the player. Players turn their ships left and right and can spin them around quicker with the Fast Rotate button. Also, Zap, like the Superzapper on Tempest, will destroy everything onscreen and can only be used once per sector.
+
+There are several different types and mannerisms of enemies as well as sectors. Getting rammed by an enemy will cause the player to lose a ship in reserve and the game will end once the player has no more remaining ships.</desc>
+		<image>~/RetroPie/roms/images/BedlamVCX.jpg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+	</game>
+	<game>
+		<path>./berzerk.bin</path>
+		<name>Berzerk</name>
+		<desc>Trapped in an endless series of mazes, the players lone future warrior must blast his way past a series of patrolling robots who are out for his destruction. Care must be taken not to touch the walls of the maze, because they can electrocute him. The player must also watch out for the sinister Evil Otto, who bounces his way through walls and is totally indestructible while he madly seeks to zap the players warrior into oblivion.</desc>
+		<image>~/RetroPie/roms/images/BerzerkVCX.jpg</image>
+		<releasedate>1980</releasedate>
+		<developer>Stern Electronics</developer>
+		<publisher>Atari</publisher>
+	</game>
+	<game>
+		<path>./blitza.bin</path>
+		<name>Blitz: Action Football</name>
+		<desc>Blitz! is a simulation of American football. Each player (which the game supports a simultaneous two player mode) controls one member of their team on offense and defense and the basic objective is to move the ball up the field to reach the opposition end zone. This is done using a series of  downs , there being four downs available to move the ball ten yards forward. If a player fails to achieve that then the ball turns over to the opposition offense. The player can also score by opting to attempt to kick the ball between the opponent s goal (called a field goal and worth fewer points than a touchdown).
+
+When on offense, the player controls the snapping of the ball (which must be done within 30 seconds of the formations being set) and then the quarterback, who can either run with the ball himself, or pass it to a team mate by  pointing  the joystick towards that receiving player, which the player will then assume control of to run with the ball.
+
+On defense, the player controls a single defender who runs faster than any of his teammates and is thus most able to tackle the opposition s ball carrier.
+
+Players can be penalised and be moved back five yards by either delaying the game (not snapping within 30 seconds), or moving offside (crossing the line of scrimmage when the ball is snapped).
+
+After each game, a statistics screen is shown, listing items such as number of first downs and total rushing and passing yards for each team.</desc>
+		<image>~/RetroPie/roms/images/BlitzVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./cleanswp.bin</path>
+		<name>Clean Sweep</name>
+		<desc>You play a vacuum cleaner that s out to clean floors of a building that s being patrolled by machines resembling paper clips. With every  dot  that the vacuum picks up, it causes it to slowly fill up until it reaches the point where it can t pick up anymore. At this point, you must get the vacuum to the center chamber to empty it out, which will give you bonus points. The patrol machines will destroy your vacuum if they get a hold of you. However, by entering one of four chambers at the corners of the screen, you can temporarily power-up your vacuum to suck up the machines for points. When you clean the entire floor of  dots , you move on to the next screen, where the action gets faster and it takes much less to fill up your vacuum.</desc>
+		<image>~/RetroPie/roms/images/CleanSweepVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./cchasm.bin</path>
+		<name>Cosmic Chasm</name>
+		<desc>With the beginning of a new game, a map screen is shown with the player s position, as they control a ship set in a series of interconnected caverns. They must first plan out the best route in order to get to the central area in each Mission.
+
+After several seconds, the map screen changes to a cavern that the player is currently in, which each cavern has a core in the center that is constantly growing, as well as having several Planet Protector enemies. It is usually in the player s best interest to clear out each area of Planet Protectors by shooting them, then carefully inching their way to the protective barrier by an exit in order to drill through it. Once the barrier has been disabled by the drill, the player can then fly into the next cavern and thereby gets a step closer to the central area.
+
+The view changes from a cavern to the map screen with each cavern that they pass, showing the player s( ) progress. Once the central central area is reached, the player(s) must drop a bomb at the center core, which they have several seconds in order to escape from the area before the bomb explodes. If the player does not make it out in time they will lose a ship; succeed and they will start again on a new area/Mission.
+
+Hitting a cavern wall, core or a Planet Protector will cause players to lose a ship and the game will end when there are no ships remaining. Exiting a Mission without leaving a bomb at the central core will cause the player to lose a ship as well, along with restarting the current Mission (if they have any remaining lives left). Also when the player loses a ship without clearing out all Planet Protectors in a cavern, that cavern s full complement of Protectors are totally replaced once the player s next ship comes into play. Players have a protective shield for use in emergencies, however.</desc>
+		<image>~/RetroPie/roms/images/CosmicChasmVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE, Cinematronics</developer>
+		<publisher>CinemaTronics </publisher>
+	</game>
+	<game>
+		<path>./fnarzod.bin</path>
+		<name>Fortress of Narzod</name>
+		<desc>The player controls a hovercraft on its ascent up a mountain range with the goal of reaching the fortress at its summit. Each screen is part of a roadway, which is defended by three waves of guardians. These waves of guardians consist first of the Doomgrabbers, then the Tarantulas and finally the Ghouls. Each wave makes its descent down the roadway and towards the player, which all of one wave needs to be destroyed before the next wave begins its descent. Contact with enemies or the Spikers which are randomly released from the Doomgrabbers will result in the loss of a life.
+
+The player s own fire has the ability to ricochet off the walls of the roadway. This not only has the benefit of creating angles, which the player may destroy the enemies without them being able to return fire, but can also be a disadvantage due to the ability for the shot to return and destroy the player s ship.
+
+After three waves, the player is allowed to move up the screen and to the next roadway. Each roadway has the same enemies, although in increasing numbers. With the second roadway comes the addition of the Warbirds, who fly over the entire mountain and are able to fire at the player in the third roadway.
+
+Once three roadways have been completed, the player faces the Mystic Hurler, who defends the fortress itself. The Mystic Hurler throws Spikers, which split in two. It takes six hits to defeat him before the player starts at the bottom of the mountain again.</desc>
+		<image>~/RetroPie/roms/images/FortressofNarzodVCX.jpg</image>
+		<releasedate>1983</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./headsup.bin</path>
+		<name>Heads Up</name>
+		<desc>The player controls one of three active members of their team as well as the defensive goalie. The player must use passing, stealing, shooting, and blocking to either score in offense or defend in defense, just as in a live game of Soccer (also known as Football in most non-U. S. countries). Each game consists of two consecutive three-minute halves where each team attempts to score as many points as possible. If the score happens to be tied at the end of the two halves, the game will go into Sudden Death overtime, which consists of three minute periods until the first team scores and wins.
+
+Should the ball go out of bounds at any time, the player who last touched the ball loses possession and the opposing team gets to throw the ball back in.</desc>
+		<image>~/RetroPie/roms/images/HeadsUpVCX.jpg</image>
+		<releasedate>1983</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./hyprchse.bin</path>
+		<name>Hyper Chase</name>
+		<desc>The player controls a formula one race car whose objective is to advance through the rankings and either make the best time or accumulate as many points as possible depending on the game selected.
+
+In Game 1, the player has unlimited cars and their goal is to finish the course in as little time as possible. In Game 2, the player receives 5 cars and the goal is to accumulate as many points as possible.
+
+In both games, collision with either the edge of the track or other cars results in the loss of a life and the player is forced to start from a speed of zero.</desc>
+		<image>~/RetroPie/roms/images/HyperchaseVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./mldymstr.bin</path>
+		<name>Melody Master</name>
+		<desc>Melody Master is a fantastic cartridge that, when used in conjunction with your Vectrex light pen, introduces you to the exciting world of music. It allows you to compose your own melodies and even has the capability to play flute and piano harmony with rhythm sections of snare and cymbals.
+You can create your own electronic musical masterpiece and amaze your friends that this interactive cartridge in a quarter century old gaming system allowed you to compose it.
+There is also a tutorial program for those of us who are not musically inclined. The  Songman  teaches you to recognize notes and identify other concepts of musical notation. It is a true interactive educational and creative experience.</desc>
+		<image>~/RetroPie/roms/images/MelodyMasterVCX.jpg</image>
+		<releasedate>1983</releasedate>
+		<developer></developer>
+		<publisher></publisher>
+	</game>
+	<game>
+		<path>./minestrm.bin</path>
+		<name>Mine Storm</name>
+		<desc>Gameplay is similar to Asteroids. The player moves around the screen shooting at star-shaped mines of various sizes and have various mannerisms. All the dots on a screen can potentially turn into mines; once a mine is shot, two dots on the screen will turn into medium-sized mines, which will then turn into two small mines when shot. When all dots have been turned into mines on a screen the Minelayer will come out, laying mines in its wake until the player destroys it.
+
+Making contact with any mine, fireball, space dust, alien force or Minelayer will destroy the player s ship and the game will end once there are no more reserve ships left. Extra ships are earned after every four levels are cleared. The Escape function acts as Hyperspace, which moves the player s ship to a random area on the screen.</desc>
+		<image>/home/pi/RetroPie/roms/images/VCX.jpg</image>
+		<releasedate>1983</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./minestr2.bin</path>
+		<name>Mine Storm 2</name>
+		<desc>Mine Storm is the built-in game that came with every Vectrex unit. It was also released in a 3-D version that required the use of the Vectrex 3D Imager and Mine Storm 2 is a debugged version of Mine Storm.
+
+One of the built-in versions of Mine Storm had a glitch that made the game crash at level 13, so GCE decided to send a copy of Mine Storm 2 to gamers that wrote to the company and complained.
+
+This game is rare, because most of the gamers didn t know about the offer, and also because not many gamers got to level 13.</desc>
+		<image>/home/pi/RetroPie/roms/images/VCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer></developer>
+		<publisher></publisher>
+	</game>
+	<game>
+		<path>./polarres.bin</path>
+		<name>Polar Rescue</name>
+		<desc>The player controls a submarine in hostile waters and must rescue the survivors of a mission which ended in disaster. Enemy submarines surround and will fire upon the player s ship if it enters sonar range. Each enemy submarine can fire up to five torpedoes; however, if it is destroyed before it uses all of their torpedoes, the remainder will be added to the player s arsenal. Other obstacles which must be avoided are mines, ice chunks and turbulent underwater whirlwinds. Once the survivors are located, it is necessary to dock with their pod, which the player has to approach with accuracy and care. A new mission will begin with a successful rescue.</desc>
+		<image>~/RetroPie/roms/images/PolarRescueVCX.jpg</image>
+		<releasedate>1983</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./polepos.bin</path>
+		<name>Pole Position</name>
+		<desc>Race your Indy car around the Fuji course before the timer runs out. The first run is the qualifying lap (which the player starts off with 120 time units in the beginning round) and your starting position is determined by your completion time. Avoid road hazards (such as precariously placed billboards on the side of the road) and other cars as you drive, earning extra time for each completed lap (50 time units added to the clock, and the amount of time at the start of the actual race goes down to 75 units.) If the player collides with a hazard, there is a delay of several seconds before their next car appears on the track, wasting time.</desc>
+		<image>~/RetroPie/roms/images/PolePositionVCX.jpg</image>
+		<releasedate></releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./ripoff.bin</path>
+		<name>Rip Off</name>
+		<desc>You and another player both control fighter ships that can rotate, thrust, and fire within an enclosed space. Your job is to protect several energy crystals from bands of various alien raiders who are out to steal them. You start off dealing with the slower ones and then eventually face the tougher ones. You have an unlimited number of fighter ships to use, but you don t have a lot of time.</desc>
+		<image>~/RetroPie/roms/images/RipOffVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./scramble.bin</path>
+		<name>Scramble</name>
+		<desc>The player controls an aircraft, referred to in the game as a  Jet,  and has to guide it across a scrolling terrain, battling obstacles along the way. The ship is armed with a forward-firing weapon, and bombs; each weapon has its own button. The player must avoid colliding with the terrain and other enemies, while simultaneously maintain its limited fuel supply, which diminishes over time. More fuel can be acquired by destroying fuel tanks in the game.
+
+The game is divided into six sections, each with a different style of terrain and different obstacles. There is no intermission between each section; the game simply scrolls into the new terrain. Points are awarded based upon the number of seconds of being alive, and on destroying enemies and fuel tanks. In the final section, the player must destroy a  base . Once this has been accomplished, a flag denoting a completed mission is posted at the bottom right of the screen. The game then continues by returning you to the first section once more, with a slight increase in difficulty.
+
+Player(s) controls a ship that must infiltrate the five levels of the Scramble system and destroy the Base in the sixth. The first level has the player over a decidedly hilly terrain. Players must dodge or destroy enemy missiles shot from the ground. There are also bases that can be destroyed for points and fuel tanks that will increase the player s fuel level. The second level is inside a cavern. The quarters are not tight, but the swarms of enemy saucers make maneuvering difficult at best, and the same targets of bases, rockets and fuel tanks are found on the ground from the first level.
+
+The player exits the cavern and is assaulted by a storm of fireballs in the third level. The fireballs are fast and indestructible and must be manically dodged and the same ground targets from the first two levels are also present. The fourth, or City level flies the player over a large metropolis. Missiles fired at the player from the tops of buildings again become a threat and there are the usual ground targets present as well. The fifth level sends the player into obnoxiously tight machine tunnels. Pilot error is the only (though formidable) enemy and the only targets this time around are the fuel tanks.
+
+The final level has the player make an attack run on the Base, defended only by its position in a deep valley. After the destruction of the Base, the player begins again.
+
+Gameplay is further complicated by the player s ship s consumption of fuel. If the player s ship runs out, it crashes into the ground below. Fuel is replenished by the destruction of the fuel tanks that liberally dot the ground during the levels. Each time the player destroys the Base, the ship s fuel consumption increases, dramatically increasing the challenge. Players can also shoot four missiles at a time in the air and drop up to two bombs at a time at ground or air targets and there are a few skill levels to choose from.</desc>
+		<image>~/RetroPie/roms/images/ScrambleVCX.jpg</image>
+		<releasedate>1981</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./solarq.bin</path>
+		<name>Solar Quest</name>
+		<desc>In Solar Quest, ships fly around the screen and the player(s) must shoot them. When shot, a survivor will appear from the ship. The player(s) can either shoot or scoop up a survivor for points or else they will eventually fly into the sun (at the center of the screen) and perish. Players can also employ a nuke that will cause a wide arc of damage. Hyperspace can also be used to send the player(s) to a random location on the screen in case of emergency.
+
+After several ships have been shot, they will become more aggressive and start pursuing the player. There are seven different types of alien ships altogether. Also, a ghost ship will appear after a while and start shooting at the player.
+
+Colliding with the sun or any ship or being shot by the ghost ship will cause the player(s) to lose a reserve ship; once all reserve ships are lost the game will end. An extra nuke is awarded at every 10,000 points and extra ships are awarded with every 25 survivors picked up.</desc>
+		<image>~/RetroPie/roms/images/SolarQuestVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./spacewar.bin</path>
+		<name>Space Wars</name>
+		<desc>It is basically a space version of Combat with the gameplay of Asteroids. You and your opponent control a spaceship in which your goal is to score more hit points on your opponent s ship without letting him do the same to yours within a time limit. Options for this game include wraparound and enclosed playfields, plus gravitational effects from the Sun in the middle of the screen (black hole, negative gravity, and no gravity).</desc>
+		<image>/home/pi/RetroPie/roms/images/SpaceWarsVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./spike.bin</path>
+		<name>Spike</name>
+		<desc>Spike starts out at the bottom of the game screen. There are three sets of platforms that he must climb to make it to the top to reach Molly. The platforms move from side to side and Spike must place ladders as the player(s) feel fit will best help him make it from one level of platforms to the next.
+
+The first level has no enemies (except if Spike falls to the ground below); Spike must climb ladders to get the key, and then once he makes it to the top, he can move Molly s cage and then jump into it to save her with. Unfortunately Spud immediately recaptures Molly, and with level two, Bouncers are introduced, which bounce up and down while moving from one side to another on a row of platforms; once the Bouncer reaches a screen edge, they will reappear at the next level of platforms. Spike must either avoid or kick the Bouncers away, but Molly s bow also starts appearing on this level and makes it s way to the bottom of the screen; if Spike is able to grab it, it will freeze the Bouncer for a short time.
+
+Then on the third level, Birds start appearing, and then Bouncers start joining them as well afterwards. The platforms will also change size (alternating between large and small), the enemies and platforms will move quicker, and the platforms will also change direction each time Spike kicks an enemy if the player makes it far enough into the game.
+
+Spike will lose a life if he falls through the spaces in between all platforms to the ground below (also, if Spike reaches the edge of a screen and the platform he is on is pushing him into the edge, he will be pushed off onto the ground below) or gets touched by an enemy and the game will end when he runs out of lives. An extra life is awarded with every 10,000 points.</desc>
+		<image>~/RetroPie/roms/images/SpikeVCX.jpg</image>
+		<releasedate>GCE</releasedate>
+		<developer></developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./spinball.bin</path>
+		<name>Spinball</name>
+		<desc>Spinball (Flipper Pinball in Europe) is a representation of a pinball machine, and includes a single fixed table. The player starts the game with five balls and the basic objective is to score as many points as possible by directing the ball to hit the various scoring targets available, without losing the ball down the drain at the bottom of the table.
+
+The player is in control of two sets of flippers on the table, activated by buttons 2 and 3 on the standard Vectrex controller. The table can also be  nudged  using the joystick which will alter the direction of the ball slightly. Too many nudges in a short time though will result in a  tilt  penalty and the loss of the current ball.
+
+As with most pinball games in general, it is best for the player to keep balls in play for as long as possible to score the highest amount possible. Each individual score achieved can also be increased via a  multiplier , shown in the form of a number (1-6) followed by an  x  which is shown above the current total score. The multiplier can be increased either by hitting the Ball Splitter (the star-shaped object just below the middle of the table), or lighting up all four bumper targets at the same time.
+
+Other bonuses include lighting the Center Chute Diamonds at the top of the playfield (above the four bumpers), as having the ball pass through one while lit is worth 500 points. If a diamond is not lit, then 1500 points are scored. If the player activates the lights in all four bumpers without hitting any of them, this will increase their Score Multiplier (as previously stated, plus if the ball passes through a Diamond when it is lit, it will also light up a bumper). When all Diamonds are off, one of the Ball Saver arrows will be turned on for a brief time, which are located at the bottom of the playfield (one on each side of the player’s flippers). If the ball rolls over one of these while lit, the ball is caught, returned to the playfield, and a 1000 point bonus is scored.
+
+Bumpers also have bonuses, which have a base score of 15 points per hit, although a lit up bumper hit adds 500 points. Drop targets also have several bonuses, as a 100 point bonus is scored for each set of drop targets that are hit when lit up; if they are hit in order (from right to left or left to right), then an extra 200 points are added for each target, which also activates the Spinner Bonus and Ball Splitter for a brief time.
+
+Spinners’ bonus arrows are activated by knocking out any set of drop targets, awarding the player with a 2000 point bonus (rather than 300 when the arrow isn’t activated), along with briefly activating the Ball Splitter, which appears in the center of the lower section of the table (above the player’s flippers). If the ball makes contact with the Splitter while activated, it will split into two balls, which also causes a triangular bumper to appear between the player’s lower flippers, which can aid in keeping the ball from going down the drain.
+
+If the ball lands on the Ball Splitter when it has been activated for an unlimited amount of time, the player’s Score Multiplier is increased.</desc>
+		<image>~/RetroPie/roms/images/SpinballVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./starcas.bin</path>
+		<name>Star Castle</name>
+		<desc>You control a small spaceship that, like the one in Asteroids, can rotate, thrust, and fire. You have been assigned to take out a gun turret that is hiding behind three layers of shields, but the job is not easy. First of all, each section of shield requires two hits to be destroyed, and if you destroy all its sections, the gun turret simply generates a new layer of shield from the inner layer out. Secondly, the gun turret sends out tiny heat-seeking missiles that go after your ship. You can easily destroy them, but they will earn you no points. Thirdly, when you open enough gaps in the shield layers, the gun turret can launch a fireball at you if you re in its line of sight. Destroy the gun turret within and you ll earn a bonus ship as you are taken to destroy another gun turret hiding behind layers of shields. The game gets difficult as the heat-seekers get faster and the gun turret takes less time to be within line-of-sight of you to destroy you.</desc>
+		<image>~/RetroPie/roms/images/StarCastleVCX.jpg</image>
+		<releasedate>1980</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./starhawk.bin</path>
+		<name>Star Hawk</name>
+		<desc>Star Hawk was a First Person Shooter arcade game made by Cinematronics. Up to two players could play simultaneously, destroying ships that flew over a planet by positioning their onscreen cursors on the ships while firing. The games were timed, which the player(s) had two minutes to score at least 10,000 points (or a multiple thereof), which would lead to an additional 20 seconds worth of gameplay added to the clock. However, the alien ships would become harder to hit as a difficulty increase.
+
+One certain ship that flies past the center of the trench of the planet below (on this port; originally it would appear from a corner) will make a warning sound as it appears, which, if destroyed quickly, will give the player 800 points, enlarge the player’s cursor (that shot the ship), give double points for every ship destroyed and increase the planet’s scrolling speed for several seconds. If the ship wasn’t destroyed, it would subtract 800 points from the player(s’) score.
+
+Note: on this port, the game starts off with one minute on the clock, not two, and the planet did not speed up, nor the player’s cursor enlarge when they shot the Command Ship on the original. However, the starting time on the clock could be changed via the game’s dipswitches on the original, depending on what the individual arcade owner wanted.</desc>
+		<image>~/RetroPie/roms/images/StarHawkVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./startrek.bin</path>
+		<name>Star Trek: The Motion Picture</name>
+		<desc>This game is a first-person shooter set in the Star Trek universe. The player controls a ship equipped with photon torpedoes, trying to eliminate as many enemy ships as possible. After destroying a sufficient amount of enemies, the player advances to the next level.
+
+The screen has two status bars, one for the amount of torpedoes left, and one for the remaining shield. The shield is used to repel the star-shaped projectiles fired by enemy ships. Both bars can be replenished by docking with the space station that comes into view from time to time. It is also possible to warp into a black hole, where the player has to take on a Klingon mothership.</desc>
+		<image>~/RetroPie/roms/images/StarTrekVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+	<game>
+		<path>./webwars.bin</path>
+		<name>Web Wars</name>
+		<desc>In Web Wars, the player controls a bird flying through a Web of Fantasy, shooting enemies, dodging their fire and collecting various creatures. There are 20 different creatures to collect in all.
+
+At times a portal will appear for the player to fly into to be taken to the Trophy Room, which displays all of their captured creatures.
+
+If the player misses two chances in entering the Trophy Room during a wave, a Cosmic Dragon will appear over the Web, out of weapons range, and shoot down at the player.</desc>
+		<image>~/RetroPie/roms/images/WebWarsVCX.jpg</image>
+		<releasedate>1982</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+	</game>
+</gameList>

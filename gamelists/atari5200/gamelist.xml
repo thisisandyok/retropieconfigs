@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Astro Chase (USA).a52</path>
+		<name>Astro Chase</name>
+		<desc>As pilot of a spaceship, your job is to save the planet Earth! Eight mega mines are slowly homing in, and you need to destroy them all before they reach Earth. Trying to stop you are a variety of flying saucers which will constantly be chasing you around the planet. Your ship is equipped with lasers which can be used to destroy enemy saucers and the mega mines. Located throughout the space around Earth are eight shield depots; if you fly through one of these, you will temporarily become invincible. Your spaceship also has a limited energy supply; if you get too low on energy, it can be resupplied at one of the generators located in the four corners of the play area. When all of the mega mines have been destroyed, you will move on to the next, faster chase!</desc>
+		<rating></rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Ballblazer (USA).a52</path>
+		<name>Ballblazer</name>
+		<desc>Ballblazer is a simple one-on-one sports-style game bearing similarities to basketball and soccer. Each side is represented by a craft called a "rotofoil", which can be controlled by either a human player or a computer-controlled "droid" with ten levels of difficulty. (The game allows for human vs. human, human vs. droid, and droid vs. droid matches.) The basic objective of the game is to score points by either firing or carrying a floating ball into the opponent's goal. The game takes place on a flat, checkerboard playfield, and each player's half of the screen is presented in a first-person perspective.</desc>
+		<rating></rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Beamrider (USA).a52</path>
+		<name>Beamrider</name>
+		<desc>Beamrider takes place above Earth's atmosphere, where a large alien shield called the Restrictor Shield surrounds the Earth. The player's objective is to clear the Shield's 99 sectors of alien craft while piloting the Beamrider ship. The Beamrider is equipped with a short-rage laser lariat and a limited supply of torpedos. The player is given three at the start of each sector.
+
+To clear a sector, fifteen enemy ships must be destroyed. A "Sentinel ship" will then appear, which can be destroyed using a torpedo (if any remain) for bonus points. Some enemy ships can only be destroyed with torpedoes, and some must simply be dodged. Occasionally during a sector, "Yellow Rejuvenators" (extra lives) appear. They can be picked up for an extra ship, but if they are shot they will transform into ship-damaging debris.</desc>
+		<image>~/RetroPie/roms/images/Beamrider (USA)-image.jpeg</image>
+		<releasedate>07/15/1983</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+	</game>
+	<game>
+		<path>./BerZerk (USA).a52</path>
+		<name>Berzerk</name>
+		<desc>After a routine space exploration mission goes awry, you find yourself marooned on the planet Mazeon. To add insult to injury, the robotic residents are out to kill you. Now you're forced to fend off these relentless robots as you move through endless mazelike environments. In Berzerk, the goal is to make your way past the electrified walls forming each screen while using your laser gun to blast the hostile threats known as Automazeons. Firing your weapon involves pointing the joystick in one of eight directions and pressing a button. You can also lead robots into walls and even into their own shots to defeat them.</desc>
+		<image>~/RetroPie/roms/images/BerZerk (USA)-image.jpeg</image>
+		<releasedate>01/01/1983</releasedate>
+		<developer>Stern Electronics</developer>
+		<publisher>Stern Electronics</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Blue Print (USA).a52</path>
+		<name>Blueprint</name>
+		<desc>Your girlfriend Daisy is in trouble! Ollie Org is chasing her across the top of the screen, and you need to come to the rescue. To stop Ollie before time runs out, you need to construct a machine. The blue print for the machine is at the bottom of the screen, so all you need to do is locate the parts which are hidden in the numerous houses in a maze like town. When you locate a part, drag it back and place it on the blue print. When all parts have been located, press the start button and the machine is ready to go! To make your task more difficult, there are several obstacles that get in the way. If you enter a house which doesn't contain a part, you will instead be stuck with a bomb. You will need to hurry and diffuse any bombs in the bomb pit before they explode! From time to time, a flower pot will fall from above and then hop off the screen. Get hit by a flower pot, and you lose a life. You also need to be careful of Fuzzy Wuzzy, who wanders around the neighborhood randomly. An encounter with Fuzzy Wuzzy will also be deadly! Hiding in the bomb pit is Sneaky Pete; while he isn't deadly, he will occasionally appear and press the start button before your machine is complete. If this happens, you will need to drag Pete back to the bomb pit and reassemble all of the machine parts.</desc>
+		<image>~/RetroPie/roms/images/Blue Print (USA)-image.jpeg</image>
+		<rating>5.000000</rating>
+		<releasedate>01/01/1983</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>CBS Electronics</publisher>
+	</game>
+	<game>
+		<path>./Bounty Bob Strikes Back! (USA).a52</path>
+		<name>Bounty Bob Strikes Back!</name>
+		<desc>Bounty Bob Strikes Back! is the sequel to Miner 2049er and features similar gameplay. As Bounty Bob, your goal is to claim every inch of 25 challenging mines. To do this, you must walk over each segment of the framework in the mines. To reach each segment of framework, you will need to figure out a way to jump, climb, or use one of the many devices occasionally available to get there. To your help you get around (or sometimes hinder progress) are ladders, slides, suction tubes, cannons, transporters, and other devices. Wandering about the mines are many dangerous mutants. If you come in contact with one of these, you will lose a life. Scattered throughout each mine are special food items; collect one of these, and you will temporarily be able to eliminate the mutants by walking into them. You will need to figure out a unique strategy for each level in order to complete it, plus there is a time limit so claim all the territory quickly!</desc>
+		<image>~/RetroPie/roms/images/Bounty Bob Strikes Back! (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Big Five Software</developer>
+		<publisher>Big Five Software</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Buck Rogers - Planet of Zoom (USA).a52</path>
+		<name>Buck Rogers: Planet of Zoom</name>
+		<desc>Fast and furious racing game taking place on a futuristic racetrack. Guide your spaceship between the pylons and shoot down other enemy racers.
+
+Based on the arcade game (which is even more loosely based on the Buck Rogers comic strips).</desc>
+		<image>~/RetroPie/roms/images/Buck Rogers - Planet of Zoom (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Castle Blast (USA) (Unl).a52</path>
+		<name>Castle Blast</name>
+		<desc>Castle Blast is shoot'em up based on the 5th screen of Atari's 2600 Phoenix where you take on the mothership. Castle Blast is Ronen Habot's first foray into programming the Atari 5200. Ronen used this experience as a means to write a tutorial on Atari 5200 programming to assist others who might want to write games for the system.
+
+Castle Blast made its debut at the 2002 Classic Gaming Expo, where it was sold with a box, manual and cart. AtariAge held a Castle Blast Label Contest in April, 2002. Castle Blast may be ordered directly from the author, Ronen Habot, by visiting the Castle Blast Development Page.
+
+The object of this game is to destroy the Castle on the Mothership. You fire Vertical Trajectory Missiles, or VTMs, at the shield on the bottom of the Mothership. When you penetrate the shield, then blast the Castle. To score extra points, you can also shoot the enemy spaceships flying overhead.
+
+If you destroy the Castle, you advance to the next level, where you will need to contend with Focused Energy Beams, or FEBs, fired from the Mothership. There will also be stars appearing in the sky, making it harder to target the spaceships.
+
+If you manage to obliterate the Castle again, you will proceed to the next level, which adds ground-based tanks assaulting you. You have Horizontal Trajectory Missiles, or HTMs, to deal with this new enemy but do not lose sight of your primary goal.
+
+Your joystick moves you left or right. The lower button fires VTMs, the upper button fires HTMs.</desc>
+		<image>~/RetroPie/roms/images/Castle Blast (USA) (Unl)-image.jpeg</image>
+		<releasedate>08/10/2002</releasedate>
+		<developer>Ronen Habot</developer>
+		<publisher>Self-Published</publisher>
+	</game>
+	<game>
+		<path>./Castle Crisis (USA) (Unl).a52</path>
+		<name>Castle Crisis</name>
+		<desc>This is a version of the Atari coin-op game Warlords, designed to look and play as much like the coin-op version as possible. Use your shield to deflect fireballs away from your castle and towards your opponents. You can also capture fireballs and launch them at your opponents with even greater force.</desc>
+		<image>~/RetroPie/roms/images/Castle Crisis (USA) (Unl)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher>AtariAge</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Centipede (USA).a52</path>
+		<name>Centipede</name>
+		<desc>The player moves the character about the bottom area of the screen and fires laser shots at a centipede advancing from the top of the screen down through a field of mushrooms. Shooting any section of the centipede creates a mushroom; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the board, with the first section of the rear piece becoming a new head. If the head is destroyed, the section behind it becomes the next head.</desc>
+		<image>~/RetroPie/roms/images/Centipede (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Choplifter! (USA).a52</path>
+		<name>Choplifter</name>
+		<desc>In Choplifter, the player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in territory ruled by the evil Bungeling Empire. The player must collect the hostages and transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants.</desc>
+		<image>~/RetroPie/roms/images/Choplifter! (USA)-image.jpeg</image>
+		<releasedate>07/01/1982</releasedate>
+		<developer>Dan Gorlin</developer>
+		<publisher>Atari</publisher>
+	</game>
+	<game>
+		<path>./Congo Bongo (USA).a52</path>
+		<name>Congo Bongo</name>
+		<desc>In the first of three screens, you must climb the cliffs of Jungle Mountain in order to get to Congo Bongo, the jungle gorilla. You must also cross a bridge and jump a chasm. Along the way, Congo will throw coconuts at you, and monkeys will try to jump on your back. The monkeys slow you down tremendously, but a couple of jumps will send them scurrying.</desc>
+		<image>~/RetroPie/roms/images/Congo Bongo (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Countermeasure (USA).a52</path>
+		<name>Countermeasure</name>
+		<desc>We've just received word that terrorists have seized one of our missile silo complexes and are threatening to blow up Washington, D.C. These lunatics aren't fooling!
+
+They've wired the missiles to a silo computer and started the launch sequence timer. In just 10 minutes the missiles will lift off for Washington... unless YOU stop them. Destroy all the silos in the complex with your long-range turret gun before the timer runs out. If you complete this mission, you'll win the Congressional Medal of Honor... along with 10,000 bonus points and a bonus life.
+
+If the timer runs out before you destroy all the silos, you still have a chance to prevent disaster. In the seconds before impact, dock your supertank at a silo, enter the War Room, and guess the fail-safe code that disarms the missiles: The code is some combination of the letters L, E, and O... for example, ELL, OOO, or OLE. Succeed and you win 10,000 bonus points and a bonus life. Fail and... well, you'll find out.</desc>
+		<image>~/RetroPie/roms/images/Countermeasure (USA)-image.jpeg</image>
+		<releasedate>01/01/1982</releasedate>
+		<developer></developer>
+		<publisher>Atari</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Defender (USA).a52</path>
+		<name>Defender</name>
+		<desc>Defender is a two-dimensional, side-scrolling shooting game set on the surface of an unnamed planet. The player controls a space ship as it navigates the terrain, flying either to the left or right. A joystick controls the ship's elevation, and five buttons control its horizontal direction and weapons. The object is to destroy alien invaders, while protecting astronauts on the landscape from abduction. Humans that are successfully abducted return as mutants that attack the ship. Defeating the aliens allows the player to progress to the next level. Failing to protect the astronauts, however, causes the planet to explode and the level to become populated with mutants. Surviving the waves of mutants results in the restoration of the planet. Players are allotted three chances (lives) to progress through the game and are able to earn more by reaching certain scoring benchmarks.</desc>
+		<image>~/RetroPie/roms/images/Defender (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dig Dug (USA).a52</path>
+		<name>Dig Dug</name>
+		<desc>The objective of Dig Dug is to eliminate underground-dwelling monsters by inflating them until they pop, or by dropping rocks on them. There are two kinds of enemies in the game:
+Pookas - A race of round red monsters (said to be modeled after tomatoes) who wear yellow goggles.
+Fygars - A race of green dragons who can breathe fire.
+The player's character is Dig Dug, dressed in white and blue, and able to dig tunnels through destructible environments. Dig Dug is killed if he is caught by either Pooka or Fygar, burned by a Fygar's fire, or crushed by a rock.
+A partially inflated monster will gradually deflate and recover after a few seconds, during which time the player can pass safely through it. The monsters normally crawl through the tunnels in the dirt but can turn into ghostly eyes and travel slowly through the dirt. The last enemy on a level will try to escape off the top left of the screen.
+More points are awarded for popping an enemy further down in the dirt (the levels are color-coded). In addition, Fygars are worth double points if exploded horizontally, since they can only breathe fire horizontally in the direction they are facing. Extra points are also awarded for dropping rocks on enemies in order to eliminate them rather than inflating them. If one enemy is killed by the rock, it is worth 1000 points. The next two add 1500 points each, and any after that add 2000. The act of digging is itself worth points, giving 10 points for each block dug, so some players do as much of it as possible in situations where the threat from the remaining monsters is minimal.
+After the player drops two rocks, fruits and vegetables and other edible bonus items, such as Galaxian flagships appear in the center of the play field, and can be collected for points if the player is able to reach them before they disappear. These edible bonus items will appear even if the rocks fail to hit any enemies. In some versions of the game, the most points attainable from a single bonus fruit is 8,000 from the pineapple.</desc>
+		<image>~/RetroPie/roms/images/Dig Dug (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Frogger (USA).a52</path>
+		<name>Frogger</name>
+		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.</desc>
+		<image>~/RetroPie/roms/images/Frogger (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Frogger II - Threeedeep! (USA).a52</path>
+		<name>Frogger II: Threeedeep!</name>
+		<desc>In Frogger II, you need to guide your frog to safety in three different locations. Starting out underwater, reach the top of the pond while avoiding dangerous alligators and fish (you can ride a turtle for safety!). Once on top of the pond, hop across logs, birds, and even a whale to the life preserver trailing behind a tugboat. In the third location you have to hop across a flock of birds to reach a cloud at the top of the screen. Each frog has a time limit to safely reach one of the homes on each of the three screens. You move on to the next level when a frog has safely reached each of the homes on all screens.</desc>
+		<image>~/RetroPie/roms/images/Frogger II - Threeedeep! (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Galaxian (USA).a52</path>
+		<name>Galaxian</name>
+		<desc>Galaxian expanded on the formula pioneered by Space Invaders. As in the earlier game, Galaxian featured a horde of attacking aliens that exchanged shots with the player. In contrast to Space Invaders, Galaxian added an element of drama by having the aliens periodically make kamikaze-like dives at the player's ship, the Galaxip.</desc>
+		<image>~/RetroPie/roms/images/Galaxian (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Gorf (USA).a52</path>
+		<name>Gorf</name>
+		<desc>The game itself consists of four levels:
+•The first level has you behind a defensive shield, defending against an alien attack. The level is a top-down view, with your ship &amp; shield on one side and the aliens on the other side;
+
+•The second level is similar to the first, only your defensive shield is gone, and the enemies tend to swoop down over the level as opposed to those row formations. Bonus ships also tend to appear in this level;
+
+•The third level is a change, and has you entering hyperspace. Your only goal is to survive to the end of your journey. The viewpoint switches from a top-down view to a behind-the-ship view and in effect you are heading "towards" your destination. Alien vessels flying in circular formation try to stop you;
+
+•The fourth and final level is similar to the first again, with some key differences. You do not fight a wave of enemies, but a single one. A mothership with a glowing weak spot. Hitting the weak spot will instantly destroy it. The mothership also has that same shield that was yours in the first level.</desc>
+		<image>~/RetroPie/roms/images/Gorf (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>CBS</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Gremlins (USA).a52</path>
+		<name>Gremlins</name>
+		<image>~/RetroPie/roms/images/Gremlins (USA)-image.jpeg</image>
+		<rating>5.000000</rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Gyruss (USA).a52</path>
+		<name>Gyruss</name>
+		<image>~/RetroPie/roms/images/Gyruss (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./H.E.R.O. (USA).a52</path>
+		<name>H.E.R.O.</name>
+		<desc>There is trouble in the mines! Volcanic activity has trapped numerous miners, and it is your job to save them. As Roderick Hero, you need to make your way through the dangerous mineshaft avoiding the dangerous creatures and lava, and find out where the miners are located before you run out of energy. To help on your mission, Roderick Hero has several useful types of equipment. A prop pack will allow you to hover and fly around the mineshaft and (hopefully) avoid the many dangers within. Your helmet features a short range microlaser beam which can be used to destroy the bats, spiders, snakes, and other creatures you'll encounter in the mines. From time to time, your path through the mine may be blocked by stone or lava walls. You begin each mission with six sticks of dynamite which can be used to destroy these obstacles (be careful you don't blow yourself up, though!) If you run out of dynamite, your laser beam can also be used to destroy the walls, though this will take longer and use up more energy. As the levels progress, the mine shaft will become longer and more maze-like, creatures will more frequently block the path, and lava walls and pools will appear which are dangerous to the touch.</desc>
+		<image>~/RetroPie/roms/images/H.E.R.O. (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./James Bond 007 (USA).a52</path>
+		<name>James Bond 007</name>
+		<desc>When it comes to fast-paced action and intrigue, nobody does it better than Bond. James Bond.
+But you can try when you reenact scenes from four great James Bond movie classics.
+007's specially designed vehicle will take you on the ride of your life--over land, in the air, and under the sea! Through it all you must avoid obstacles, avert enemies, and accomplish four different missions!</desc>
+		<image>~/RetroPie/roms/images/James Bond 007 (USA)-image.jpeg</image>
+		<releasedate>11/02/1984</releasedate>
+		<developer>Parker Bros</developer>
+		<publisher>Parker Bros</publisher>
+	</game>
+	<game>
+		<path>./Joust (USA).a52</path>
+		<name>Joust</name>
+		<desc>Joust is a platforming game where the player controls a yellow knight riding a flying ostrich from a third-person perspective. The player navigates the protagonist around the game world, which consists of rock platforms floating above a flat island surrounded by lava.</desc>
+		<image>~/RetroPie/roms/images/Joust (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Jungle Hunt (USA).a52</path>
+		<name>Jungle Hunt</name>
+		<desc>Jungle Hunt offers four unique adventure experiences, which repeat with greater difficulty once all four have been survived. If you don't survive these adventures, you will not only lose your own life but that of the lovely Penelope, who has been captured by cannibals!
+
+The first part challenges your Tarzan skills - can you swing on the vines without plummeting to your doom? The second part pits you against a whole bunch of nasty crocodiles in a mighty river. Fortunately, you have a knife to fight back with. Don't forget to go up for air! In the third part, you face a battle against oncoming boulders of varying sizes and physics. Once you've cleared all these treacherous hazards, you still must confront the dreaded cannibal, who is armed with a wicked spear. Can you get past him and save the lovely Penelope?</desc>
+		<image>~/RetroPie/roms/images/Jungle Hunt (USA)-image.jpeg</image>
+		<releasedate>07/15/1982</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./K-Razy Shoot-Out (USA).a52</path>
+		<name>K-Razy Shoot-Out</name>
+		<image>~/RetroPie/roms/images/K-Razy Shoot-Out (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Kaboom! (USA).a52</path>
+		<name>Kaboom!</name>
+		<image>~/RetroPie/roms/images/Kaboom! (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Kangaroo (USA).a52</path>
+		<name>Kangaroo</name>
+		<image>~/RetroPie/roms/images/Kangaroo (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Keystone Kapers (USA).a52</path>
+		<name>Keystone Kapers</name>
+		<image>~/RetroPie/roms/images/Keystone Kapers (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Koffi - Yellow Kopter (USA) (Unl).a52</path>
+		<name>Koffi Yellow Copter</name>
+		<image>~/RetroPie/roms/images/Koffi - Yellow Kopter (USA) (Unl)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Mario Bros. (USA).a52</path>
+		<name>Mario Bros.</name>
+		<desc>Mario Bros. features two plumbers, Mario and Luigi, having to investigate the sewers of New York after strange creatures have been appearing down there. The objective of the game is to defeat all of the enemies in each phase. The mechanics of Mario Bros. involve only running and jumping.</desc>
+		<image>~/RetroPie/roms/images/Mario Bros. (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./MegaMania (USA).a52</path>
+		<name>Megamania</name>
+		<image>~/RetroPie/roms/images/MegaMania (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Meteorites (USA).a52</path>
+		<name>Meteorites</name>
+		<image>~/RetroPie/roms/images/Meteorites (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Miner 2049er Starring Bounty Bob (USA).a52</path>
+		<name>Miner 2049er Starring Bounty Bob</name>
+		<image>~/RetroPie/roms/images/Miner 2049er Starring Bounty Bob (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Big Five Software</developer>
+		<publisher>Big Five Software</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Missile Command (USA).a52</path>
+		<name>Missile Command</name>
+		<desc>The game is played by moving a crosshair across the sky background  and launch a counter-missile from the appropriate battery. Counter-missiles explode upon reaching the crosshair, leaving a fireball that persists for several seconds and destroys any enemy missiles that enter it. There are three batteries, each with ten missiles; a missile battery becomes useless when all its missiles are fired, or if the battery is destroyed by enemy fire. The missiles of the central battery fly to their targets at much greater speed; only these missiles can effectively kill a smart bomb at a distance.</desc>
+		<image>~/RetroPie/roms/images/Missile Command (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Montezuma's Revenge featuring Panama Joe (USA).a52</path>
+		<name>Montezuma's Revenge</name>
+		<desc>The player controls a on-screen character called Panama Joe, moving him from room to room in the labyrinthine underground of the 16th century Aztec temple of emperor Montezuma II, filled with enemies, obstacles, traps, and dangers. The objective is to score points by gathering jewels along the way. Panama Joe must find keys to open doors, collect and use equipment such as torches, swords, amulets, etc. without losing his life. Obstacles are laser gates, conveyor belts, disappearing floors and fire pits.</desc>
+		<image>~/RetroPie/roms/images/Montezuma's Revenge featuring Panama Joe (USA)-image.jpeg</image>
+		<rating>5.500000</rating>
+		<releasedate>07/01/1984</releasedate>
+		<developer>Utopia</developer>
+		<publisher>Parker Bros.</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Moon Patrol (USA).a52</path>
+		<name>Moon Patrol</name>
+		<desc>he player takes the role of a Luna City police officer assigned to Sector Nine, the home of the "toughest thugs in the galaxy."
+The top portion of the screen shows a timeline-style map of the current course, and three indicator lights. The top light indicates upcoming enemy aerial attacks, the middle one indicates an upcoming minefield, and the bottom one indicates enemies approaching from behind.
+The map shows five different checkpoints labeled E, J, O, T and Z. Similar to racing games, the time spent during between each checkpoint is compared to the average which determines the number of bonus points allocated to the player. The game contains two courses, the regular and champion course; after completing the first course your buggy's color changes from pink to red and the game continues on.</desc>
+		<image>~/RetroPie/roms/images/Moon Patrol (USA)-image.jpeg</image>
+		<releasedate>01/01/1982</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mountain King (USA).a52</path>
+		<name>Mountain King</name>
+		<image>~/RetroPie/roms/images/Mountain King (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Mr. Do!'s Castle (USA).a52</path>
+		<name>Mr. Do's Castle</name>
+		<image>~/RetroPie/roms/images/Mr. Do!'s Castle (USA)-image.jpeg</image>
+		<rating>5.000000</rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man (USA).a52</path>
+		<name>Ms. Pac-Man</name>
+		<desc>The gameplay of Ms. Pac-Man is largely identical to that of the original Pac-Man. The player gathers points by eating dots and avoiding ghosts (contact with one loses a life). Power-pellets or energizers change the ghosts, which reverse their course and can be eaten for bonus points. Fruit bonuses can be consumed for increasing point values, twice per level.</desc>
+		<image>~/RetroPie/roms/images/Ms. Pac-Man (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Midway</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pac-Man (USA).a52</path>
+		<name>Pac-Man</name>
+		<desc>The player controls Pac-Man through a maze, eating pac-dots. When all dots are eaten, Pac-Man is taken to the next stage, between some stages one of three intermission animations plays. Four enemies (Blinky, Pinky, Inky and Clyde) roam the maze, trying to catch Pac-Man. If an enemy touches Pac-Man, a life is lost. When all lives have been lost, the game ends.</desc>
+		<image>~/RetroPie/roms/images/Pac-Man (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pengo (USA).a52</path>
+		<name>Pengo</name>
+		<desc>The player uses a joystick and a single button as controls. Pressing the button while pushing the joystick will cause Pengo to push forward the ice block he is facing, which will slide until it hits a wall or another ice block, crushing any intervening Sno-Bees. Crushing more than one Sno-Bee at once will increase the number of points awarded. There are a total of sixteen levels, which repeat in order starting on the seventeenth round.
+As the player crushes those on patrol, new Sno-Bees hatch from eggs located within ice blocks. At the start of each level, blocks that contain these eggs are briefly identified by flashing the color of that level's Sno-Bees. Eggs can be eliminated by crushing the ice blocks that contain them. If Pengo pushes a side wall the water "vibrates", any adjacent Sno-Bees will be briefly stunned, and are eliminated (for 100 points) if Pengo walks over them in this state. Eliminating all Sno-Bees in a round will progress the player to the next.
+Diamond blocks are unbreakable; when connected in a horizontal or vertical line the player earns bonus points: 10,000 points if aligned without being against a wall or if only one diamond block is touching a wall, 5,000 points if all three are against the wall. Alignment will also temporarily stun all Sno-Bees.
+After 60 seconds elapse in a round without a death, the game enters into sudden death mode; the music tempo and movement of the Sno-Bees accelerates. If a single Sno-Bee remains in the round, a jingle plays and the Sno-Bee accelerates in an attempt to reach a corner where it safely fades away.
+The game will always start with the same maze on power up. Once the game has gone through the attract mode, the maze will change.</desc>
+		<image>~/RetroPie/roms/images/Pengo (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./David Crane's Pitfall II - Lost Caverns (USA).a52</path>
+		<name>Pitfall II: Lost Caverns</name>
+		<desc>Pitfall Harry has unlimited time and lives, making it impossible to "lose" the game; when Harry touches a dangerous creature, he simply loses points as he floats back to the last continue point (marked with a red cross) he touched.</desc>
+		<image>~/RetroPie/roms/images/David Crane's Pitfall II - Lost Caverns (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>David Crane</developer>
+		<publisher>Activision</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Pitfall! (USA).a52</path>
+		<name>Pitfall!</name>
+		<desc>The player must maneuver a character known as Pitfall Harry through a maze-like jungle in an attempt to recover 32 treasures in a 20-minute time period. Along the way, he must negotiate numerous hazards, including pits, quicksand, rolling logs, fire, rattlesnakes, scorpions, and crocodiles. Harry may jump over or otherwise avoid these obstacles by climbing, running, or swinging on a vine to avoid them. Treasure includes gold and silver bars, diamond rings, and bags of money. Under the jungle there is a tunnel which Harry can access through ladders found at various places. This is required to get around some surface areas that have no way across otherwise. The tunnels are filled with dead-ends blocked by brick walls, forcing the player return to the surface at one of the ladders, and try to find a way around again. The tunnels also contain treasure and scorpions Harry must jump over.</desc>
+		<image>~/RetroPie/roms/images/Pitfall! (USA)-image.jpeg</image>
+		<rating>6.000000</rating>
+		<releasedate></releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Pole Position (USA).a52</path>
+		<name>Pole Position</name>
+		<desc>In this game, the player controls a Formula One race car. The player completes a time trial lap within a certain amount of time to qualify for an F1 race at the Fuji Racetrack. After qualifying, the player races against other cars in a championship race.</desc>
+		<image>~/RetroPie/roms/images/Pole Position (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+	</game>
+	<game>
+		<path>./Popeye (USA).a52</path>
+		<name>Popeye</name>
+		<image>~/RetroPie/roms/images/Popeye (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Q-bert (USA).a52</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<image>~/RetroPie/roms/images/Q-bert (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Qix (USA).a52</path>
+		<name>QIX</name>
+		<image>~/RetroPie/roms/images/Qix (USA)-image.jpeg</image>
+		<rating>4.000000</rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Quest for Quintana Roo (USA).a52</path>
+		<name>Quest for Quintana Roo</name>
+		<image>~/RetroPie/roms/images/Quest for Quintana Roo (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./RealSports Baseball (USA).a52</path>
+		<name>RealSports Baseball</name>
+		<image>~/RetroPie/roms/images/RealSports Baseball (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./RealSports Football (USA).a52</path>
+		<name>RealSports Football</name>
+		<image>~/RetroPie/roms/images/RealSports Football (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./RealSports Soccer (USA).a52</path>
+		<name>RealSports Soccer</name>
+		<image>~/RetroPie/roms/images/RealSports Soccer (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./RealSports Tennis (USA).a52</path>
+		<name>RealSports Tennis</name>
+		<image>~/RetroPie/roms/images/RealSports Tennis (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Rescue on Fractalus! (USA).a52</path>
+		<name>Rescue on Fractalus!</name>
+		<desc>The game utilizes fractal technology to create the craggy mountains of an alien planet, where the visilibility was drastically reduced by the dense atmosphere. The player controls a fictional "Valkyrie" space fighter[2] (converted for search and rescue duty) from a first-person view, attempting to land and pick up downed Ethercorps pilots. Some of these mountains hold anti-aircraft guns, which have to be avoided or destroyed. Due to the varied terrain, the direction finder has to be used to locate the pilots, whose visual beacons are often masked by mountain ridges.
+
+At higher levels, the enemy Jaggis begin flying kamikaze saucers. The mission area also moves into day/night boundaries. Night missions are particularly difficult, requiring diligent use of the altimeter to avoid crashing.
+
+Flying consumes fuel. The way to replenish this supply is to rescue downed pilots who bring their remaining fuel supplies on board.</desc>
+		<image>~/RetroPie/roms/images/Rescue on Fractalus! (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>LucasFilm Games</developer>
+		<publisher>Atari</publisher>
+	</game>
+	<game>
+		<path>./Carol Shaw's River Raid (USA).a52</path>
+		<name>River Raid</name>
+		<desc>The player controls an airplane in a top-down view over a river and gets points for shooting down enemy planes, helicopters, ships and balloons (for versions after the Atari 2600). By flying over fuel-stations, the plane's tank can be refilled. The player can shift side to side and change the speed of the plane. Sections of the river are marked by bridges.</desc>
+		<image>~/RetroPie/roms/images/Carol Shaw's River Raid (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Robotron 2084 (USA).a52</path>
+		<name>Robotron: 2084</name>
+		<desc>You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation -- the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you've got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
+		<image>~/RetroPie/roms/images/Robotron 2084 (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Space Dungeon (USA).a52</path>
+		<name>Space Dungeon</name>
+		<desc>In Space Dungeon for the Atari 5200, you are the commander of a space archaeological expedition, gathering up the scant remains of a distant planet. Your mission is to collect these treasures, which hold the key to the planet's destruction, and take them to a crystal-powered computer. Scientists believe that the information garnered from the cosmic chunks could save Earth from a fate similar to that of the destroyed planet.</desc>
+		<image>~/RetroPie/roms/images/Space Dungeon (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Space Shuttle - A Journey Into Space (USA).a52</path>
+		<name>Space Shuttle: A Journey into Space</name>
+		<desc>In Space Shuttle, you're the entire crew of America's pride and joy, the shuttle Orbiter. Climb into the cockpit, wait for the countdown, and follow the flight path precisely when you launch (and don't forget to separate the solid booster rockets and external tank on your way to orbit). Locate and rendezvous with a satellite in need of repair and re-launch it to the correct orbit, then make a fiery reentry through the atmosphere to return safely to Earth. 
+
+Originally released for the Atari 2600, Activision's intricate Space Shuttle simulator fares much better on the Atari 5200 for one simple reason: the controller keypad. The 2600 edition required players to memorize a bewildering array of alternate uses for every switch and toggle on the console except the power switch, whereas those functions -- although still cryptically named in NASA-speak -- are much easier to access with the keypad and overlay.</desc>
+		<image>~/RetroPie/roms/images/Space Shuttle - A Journey Into Space (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Space Invaders (USA).a52</path>
+		<name>Space Shuttle: A Journey into Space</name>
+		<desc>In Space Shuttle, you're the entire crew of America's pride and joy, the shuttle Orbiter. Climb into the cockpit, wait for the countdown, and follow the flight path precisely when you launch (and don't forget to separate the solid booster rockets and external tank on your way to orbit). Locate and rendezvous with a satellite in need of repair and re-launch it to the correct orbit, then make a fiery reentry through the atmosphere to return safely to Earth. 
+
+Originally released for the Atari 2600, Activision's intricate Space Shuttle simulator fares much better on the Atari 5200 for one simple reason: the controller keypad. The 2600 edition required players to memorize a bewildering array of alternate uses for every switch and toggle on the console except the power switch, whereas those functions -- although still cryptically named in NASA-speak -- are much easier to access with the keypad and overlay.</desc>
+		<image>~/RetroPie/roms/images/Space Invaders (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Star Raiders (USA).a52</path>
+		<name>Star Raiders</name>
+		<desc>"The code name for this operation is WIPEOUT. Seek out and destroy the Zylons." These are the orders you have been given by Commander Champion of the Star Raiders. This first-person style space combat sim tests your nerve and stamina as you seek to destroy all the Zylons in the galaxy before they destroy the Federation starbases.
+
+The game may be played at four different difficulty levels. The difficulty level varies the number of starbases you must protect and the number of enemy ships that must be defeated. At higher difficulty levels, your starship is more susceptible to damage and more difficult to control.</desc>
+		<image>~/RetroPie/roms/images/Star Raiders (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Star Trek - Strategic Operations Simulator (USA).a52</path>
+		<name>Star Trek: Strategic Operations Simulator</name>
+		<desc>Star Trek: Strategic Operations Simulator is an arcade action game where you take control of the Starship Enterprise. Your mission is to save the Federation from NOMAD! Before you get a chance at destroying NOMAD, you'll have to battle your way through ten levels (each consisting of multiple rounds). In each round you may encounter Klingon fighters, deadly anti-matter saucers, asteroid fields, and deadly meteors, all of which are capable of depleting the Enterprises energy. The game ends when your energy supply has completely run out. To fight these dangers, the Enterprise is equipped with an unlimited supply of phasers and a limited supply of photon torpedoes. Each round also contains one or more starbases; if you dock at a starbase, some of your supplies (such as energy and torpedoes) will be replenished. The game is played from two points of view; the top of the screen contains a third person view of the Enterprise (along with the ships gauges), and on the bottom of the screen is a first person point of view</desc>
+		<image>~/RetroPie/roms/images/Star Trek - Strategic Operations Simulator (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Star Wars - The Arcade Game (USA).a52</path>
+		<name>Star Wars: The Arcade Game</name>
+		<desc>Remember the exhilaration you felt near the end of Star Wars when Luke Skywalker destroyed the Death Star? With Star Wars: The Arcade Game for the Atari 5200, you can enjoy the experience all over again, but this time you get to take Skywalker's place at the helm of the X-wing Fighter!
+
+Your spaceship, which you see as though you were sitting in its cockpit, is equipped with a maximum of nine energy shields. Each time you run into an obstacle (fireball, tower or catwalk) you will lose a shield, but you can earn extra shields by destroying the Death Star. If you get hit when your shield count is zero, the game will end.
+
+Prior to taking a shot at the Death Star, you must battle wave after wave of Imperial TIE Fighter patrol ships that are swarming around the artificial planet. You must destroy the entire fleet while shooting at and avoiding a barrage of fireballs. Next, you must fly through a maze of laser towers that stretch from the Death Star up into the blackness of outer space. The fireballs make a return engagement, and you can shoot the tops off the towers for bonus points.</desc>
+		<image>~/RetroPie/roms/images/Star Wars - The Arcade Game (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Star Wars - Return of the Jedi - Death Star Battle (USA).a52</path>
+		<name>Star Wars: The Arcade Game</name>
+		<desc>Remember the exhilaration you felt near the end of Star Wars when Luke Skywalker destroyed the Death Star? With Star Wars: The Arcade Game for the Atari 5200, you can enjoy the experience all over again, but this time you get to take Skywalker's place at the helm of the X-wing Fighter!
+
+Your spaceship, which you see as though you were sitting in its cockpit, is equipped with a maximum of nine energy shields. Each time you run into an obstacle (fireball, tower or catwalk) you will lose a shield, but you can earn extra shields by destroying the Death Star. If you get hit when your shield count is zero, the game will end.
+
+Prior to taking a shot at the Death Star, you must battle wave after wave of Imperial TIE Fighter patrol ships that are swarming around the artificial planet. You must destroy the entire fleet while shooting at and avoiding a barrage of fireballs. Next, you must fly through a maze of laser towers that stretch from the Death Star up into the blackness of outer space. The fireballs make a return engagement, and you can shoot the tops off the towers for bonus points.</desc>
+		<image>~/RetroPie/roms/images/Star Wars - Return of the Jedi - Death Star Battle (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Super Breakout (USA).a52</path>
+		<name>Super Breakout</name>
+		<desc>In Super Breakout, there are three different and more advanced game types from which the player can choose:
+
+Double gives the player control of two bats at the same time—one placed above the other—and two balls. Losing a life occurs only when both balls go out of play, and points are doubled while the player is able to juggle both balls without losing either.
+Cavity retains the single bat and ball of Breakout, but two other balls are enclosed on the other side of the wall, which the player must free before they, too, can be used to destroy additional bricks. Points are increased for this, but triple points are available if the player can keep all three balls in play.
+Progressive also has the single bat and ball, but as the ball hits the paddle, the entire wall gradually advances downwards step by step, gaining in speed the longer the ball lasts in play.</desc>
+		<image>~/RetroPie/roms/images/Super Breakout (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Cobra (USA).a52</path>
+		<name>Super Cobra</name>
+		<desc>The player controls a helicopter and has to guide it across a scrolling terrain, battling obstacles along the way. The player uses a joystick to accelerate, decelerate, move up, and move down. The ship uses a laser and bomb to destroy defenders, tanks, and UFO's while infiletrating 10 Super Cobra defense systems.
+The ship has a limited fuel supply, which is depleted over time. More fuel can be acquired by destroying fuel tanks in the game.
+The game is divided into ten sections, plus a finale, each with a different style of terrain and different obstacles. Players navigate through ten levels and a base, where they must safely make it through the level and safely remove the booty. The levels are described as follows,
+Player must maneuver the chopper over mountainous terrain against fast and slow firing rockets.
+Chopper faces Arcing missiles over a mountain terrain.
+Smart Bombs flying in groups of four over mountainous terrain. Rockets appear, but do not fire.
+Single Smart Bombs over mountainous terrain. Again, Rockets appear, but do not fire.
+Chopper flies through a cavern-like terrain against falling mines.
+Rapidly firing, roving tanks over mountainous terrain. Rockets appear, but do not fire.
+Maneuver through a field of meteors which explode when hit with bombs or 3 times with laser, plus a single, green, shadow meteor directly in front of chopper which explodes when hit five times with laser. Rockets appear but do not fire.
+Chopper flies over mountainous terrain against rapidly firing UFOs. Tanks and rockets appear, but do not fire.
+Chopper faces arcing missiles over tall buildings.
+Firing rockets in a building maze.
+Base: Player must maneuver the chopper over tall buildings against arcing missiles and rapidly firing tanks to reach the Booty and safely carry it away.
+There is no intermission between each section; the game simply scrolls into the new terrain. If the player destroys the booty on the final level, they must start back at the beginning of the level.</desc>
+		<image>~/RetroPie/roms/images/Super Cobra (USA)-image.jpeg</image>
+		<rating>4.000000</rating>
+		<releasedate>02/04/1983</releasedate>
+		<developer>Parker Bros</developer>
+		<publisher>Parker Bros</publisher>
+	</game>
+	<game>
+		<path>./Activision Decathlon, The (USA).a52</path>
+		<name>The Activision Decathlon</name>
+		<rating></rating>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Dreadnaught Factor, The (USA).a52</path>
+		<name>The Dreadnaught Factor</name>
+		<image>~/RetroPie/roms/images/Dreadnaught Factor, The (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Vanguard (USA).a52</path>
+		<name>Vanguard</name>
+		<desc>Vanguard for the Atari 5200 would be an exceptional port of the 1981 arcade game were it not for the control. While the coin-op has a four-button arrangement for aiming lasers, this version uses the joystick, meaning the ship fires in the same direction it is moving as long as the fire button is pressed. This is inexcusable, as each 5200 controller is equipped with four fire buttons (not to mention a keypad). As with many 5200 titles, this one responds sluggishly to the non-centering joysticks, making for a less enjoyable experience. Fans of the original will notice a couple of other differences between versions. The 5200's ship slows down when it fires and can be set to single shots or rapid fire in the options screen.</desc>
+		<image>~/RetroPie/roms/images/Vanguard (USA)-image.jpeg</image>
+		<releasedate>01/01/1984</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+	</game>
+	<game>
+		<path>./Wizard of Wor (USA).a52</path>
+		<name>Wizard of Wor</name>
+		<desc>Wizard of Wor is an arcade shooter played from a top-down point of view.
+
+The player controls a warrior who is trapped in a dungeon. The goal is to earn as many points as possible by shooting the numerous enemy creatures which wander about the maze like corridors. The creatures wander about at various speeds, may shoot darts at the player, and some even have the ability to disappear temporarily. At the bottom of the screen the player has a radar which can be used to locate creatures that are invisible.</desc>
+		<image>~/RetroPie/roms/images/Wizard of Wor (USA)-image.jpeg</image>
+		<rating>5.500000</rating>
+		<releasedate></releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>CBS</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Zaxxon (USA).a52</path>
+		<name>Zaxxon</name>
+		<desc>ZAXXON thrusts you into the depths of outer space. Test your pilot skills as you strap into the command position. Prepare for an action-packed challenge of space survival.
+ Score points as you dive, climb, and swoop down to destroy the enemy's floating fortress. Dodge deadly laser barriers, enemy missiles, and rapid gunfire! Destroy enemy fuel tanks and your own supply is replenished. Survive the enemy's fighter fleet attack and face the ultimate challenge...the powerful, armored ZAXXON ROBOT.</desc>
+		<image>~/RetroPie/roms/images/Zaxxon (USA)-image.jpeg</image>
+		<releasedate></releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Zenji (USA).a52</path>
+		<name>Zenji</name>
+		<desc>Zenji is an action/strategy game where you control a rolling face throughout a maze. Each section of the maze can be rotated by the face. The goal is to turn the entire maze green by connecting each section of the maze to the source at the center of the screen. After all sections of the maze have been connected, you can move on to the next, more challenging level. In addition to having a time limit to complete your task, you need to avoid the flames and sparks which wander about the maze. From time to time a number will appear in a maze section and count down from 9 to 0. If you touch the number before it disappears, bonus points are earned. As the levels progress, the mazes become larger, trickier and more flames will appear.</desc>
+		<image>~/RetroPie/roms/images/Zenji (USA)-image.jpeg</image>
+		<releasedate>04/01/1984</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<players></players>
+	</game>
+	<game>
+		<path>./Zone Ranger (USA).a52</path>
+		<name>Zone Ranger</name>
+		<desc>Over 30 seperate zones of indescribable danger. Pitting you against a devastatingly evil minefield of destruction. Not to mention countless horrible enemies. Strike them and they only multiply.
+ Detonate the deadly mines that litter your cosmos or you'll be sorry. Find an elusive, mysterious superportal and you'll get even. It's intense multiscreen action. Which loosely translated, simply means, it's awesome fun.</desc>
+		<image>~/RetroPie/roms/images/Zone Ranger (USA)-image.jpeg</image>
+		<releasedate>01/01/1984</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<players></players>
+	</game>
+</gameList>

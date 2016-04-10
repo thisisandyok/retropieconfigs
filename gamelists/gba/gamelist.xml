@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Mario Kart - Super Circuit (USA).gba</path>
+		<name>Mario Kart: Super Circuit</name>
+		<desc>As was the case with its predecessors, Super Circuit is a circuit racing game. In it, the player races against seven opponents, each of which is a character from Nintendo's Mario series, in small go-karts, on tracks set in the Mario universe. Power-ups, strewn across each track, aid the bearer or hinder their opponents, as well as coins; the coins increase the player's top speed.</desc>
+		<image>~/RetroPie/roms/images/Mario Kart - Super Circuit (USA)-image.jpeg</image>
+		<rating>7.000000</rating>
+		<releasedate>08/11/2001</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Metroid Fusion (USA, Australia).gba</path>
+		<name>Metroid Fusion</name>
+		<desc>Bounty hunter Samus Aran, the protagonist, explores the surface of the planet SR388 with a survey crew from Biologic Space Laboratories (BSL). She encounters an X Parasite, virions that can replicate their hosts' physical appearances and memories, killing them afterward. Samus is unknowingly infected by the virus, and proceeds to return to the BSL station, when she suddenly loses consciousness and is ejected from her ship before it crashes into a nearby asteroid belt. The Galactic Federation recovers her body and discovers that the X Parasite infected Samus's central nervous system. They counteract the parasite's damage by creating a vaccine using Samus's cellular sample from the remains of a Metroid that Samus previously contacted. The vaccine cures Samus and also gives her Metroid-like characteristics, including the ability to absorb and use the nuclei of X Parasites for nourishment, and the Metroid's vulnerability to extremely cold temperatures. Her infected Power Suit is sent to the BSL station for examination, although parts of the suit are bonded to her body and cannot be removed, forming a partially-armored suit known as the eponymous Fusion Suit. The Federation sends Samus to investigate an explosion aboard the BSL station. While there, she learns that the space station is swarming with organisms that are infected with X Parasites. A group of X Parasites manage to recover and use components of Samus's infected Power Suit to transform into the SA-X, a form of the parasite that partially mimics Samus at full power and possesses the Ice Beam that can exploit Samus's weakness to cold temperatures. Samus escapes from the SA-X before it attacks her, and continues exploring the space station. She discovers a restricted lab, which the Galactic Federation is secretly using to breed Metroids. Suddenly, the SA-X appears once again, and attempts to destroy the lab, with itself in it. Samus narrowly escapes the lab before it is destroyed, and later learns that the SA-X managed to asexually reproduce before perishing, subsequently cloning itself. In addition, Samus learns that the Galactic Federation plans to capture the X and the SA-X for further study. Samus is certain that the Federation underestimates the destructive power of the X Parasites, and takes it upon herself to destroy the BSL station by setting it on a collision course with SR388. As she prepares to exit the station, she encounters an Omega Metroid, which proceeds to destroy one of the SA-X. Samus absorbs the nucleus of the SA-X and uses her newly-restored Ice Beam to destroy the Omega Metroid, before escaping to her ship, which extracts her from the space station before it collides with SR388.</desc>
+		<image>~/RetroPie/roms/images/Metroid Fusion (USA, Australia)-image.jpeg</image>
+		<rating>6.750000</rating>
+		<releasedate>11/01/2002</releasedate>
+		<developer>Nintendo Research &amp; Development 1</developer>
+		<publisher>Nintendo</publisher>
+	</game>
+	<game>
+		<path>./Metroid - Zero Mission (USA).gba</path>
+		<name>Metroid: Zero Mission</name>
+		<desc>Space Pirates attack a Galactic Federation-owned space research vessel and seize samples of Metroid creatures. Dangerous floating organisms, Metroids can latch on to any organism and drain its life energy to kill it. The Space Pirates plan to replicate Metroids by exposing them to beta rays and then using them as biological weapons to destroy all living beings that oppose them. While searching for the stolen Metroids, the Galactic Federation locates the Space Pirates' base of operations on the planet Zebes. The Federation assaults the planet, but the Pirates resist, forcing the Federation to retreat. As a last resort, the Federation decides to send a lone bounty hunter to penetrate the Pirates' base and destroy Mother Brain, the mechanical life-form that controls the Space Pirates' fortress and its defenses. Considered the greatest of all bounty hunters, Samus Aran is chosen for the mission. Samus lands on the surface of Zebes and explores the planet, traveling through the planet's caverns. She eventually comes across Kraid, an ally of the Space Pirates, and Ridley, the Space Pirates' commander, and defeats them both. Along the way, Samus finds and destroys Mother Brain. However, while Samus leaves the planet in her gunship, it is attacked by Space Pirates, causing it to crash back on to Zebes, near the Space Pirate Mothership. Exploring the Mothership, Samus eventually reaches the Ridley Robot, a mechanized form of Ridley. After defeating it, Samus escapes the planet using one of the Space Pirate's shuttles, while the Mothership self-destructs.</desc>
+		<image>~/RetroPie/roms/images/Metroid - Zero Mission (USA)-image.jpeg</image>
+		<rating>6.000000</rating>
+		<releasedate>02/09/2004</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+	</game>
+	<game>
+		<path>./Mother3_en.gba</path>
+		<name>Mother 3</name>
+		<desc>Mother 3 starts out very differently from the first two Mother games as is it divided up into eight different chapters, similar to Dragon Quest IV. Instead of focusing on a group of children, it chronicles the story and adventures of Lucas and his family, and the story switches perspective during each chapter. For example, the first half of the game is played as Flint, Duster, and Salsa, but the rest of the game is played as Lucas. The Nowhere Islands also change dramatically due to the influence of the Pigmask Army, transforming from a simple low-tech rural society to a more modern twenty-first century infrastructure that's similar to the first two Mother games (hence the game's theme of nature vs. technology). The game also features a more traditional top-down RPG perspective, instead of the oblique projection used in the first two games.</desc>
+		<image>~/RetroPie/roms/images/Mother3_en-image.png</image>
+		<rating>6.750000</rating>
+		<releasedate>04/20/2006</releasedate>
+		<developer>Nintendo | HAL Laboratory | Brownie Brown</developer>
+		<publisher>Nintendo</publisher>
+	</game>
+	<game>
+		<path>./Pocky &amp; Rocky with Becky (USA).gba</path>
+		<name>Pocky &amp; Rocky with Becky</name>
+		<desc>An evil Hydra Dragon has been awakened from a long sleep and has unleashed the world's most fearded mythical creatures on the land. It is up to you to stop them and eventually put an end to the evil Hydra's madness! You can choose one of the three characters, Pocky, Rocky the Raccoon or Becky to embark on this fantastic and dangerous adventure. Collect magical items and a variety of power-ups to help battle the mythical bosses as you journey to the final showdown with the Hydra!</desc>
+		<image>~/RetroPie/roms/images/Pocky &amp; Rocky with Becky (USA)-image.jpeg</image>
+		<releasedate>10/18/2002</releasedate>
+		<developer>Altron</developer>
+		<publisher>Natsume</publisher>
+	</game>
+	<game>
+		<path>./Pokemon - Sapphire Version (USA, Europe) (Rev 2).gba</path>
+		<name>Pokemon Sapphire Version</name>
+		<desc>The race to catch 'em all is on again in Pokemon Sapphire. This entry in the Pokemon series features an all-new storyline, awesome new Pokemon, and addictive RPG gameplay. One of the biggest additions to Pokemon Sapphire is the two-on-two battle system, which allows you to link up with three friends to battle competitively or cooperatively. You can also showcase your Pokemon's coolness, beauty, cuteness, smartness, and toughness in Pokemon contests. With new Pokemon, two-on-two battles, and an all-new region of Hoenn to explore, Pokemon Sapphire takes the Pokemon experience to the next level.</desc>
+		<image>~/RetroPie/roms/images/Pokemon - Sapphire Version (USA, Europe) (Rev 2)-image.jpeg</image>
+		<rating>6.333300</rating>
+		<releasedate>03/17/2003</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - The Minish Cap (USA).gba</path>
+		<name>The Legend of Zelda: The Minish Cap</name>
+		<desc>Link returns in an all-new Game Boy Advance adventure. When the sorcerer Vaati turns Princess Zelda to stone, the king of Hyrule sends Link on a quest that takes him to all-new locations. Using the power of a mystical hat called the Minish Cap, Link must travel through a fantastic world rife with new items, puzzles, and bosses. As Link, you can shrink down to either battle large enemies from within or find secret items. You can also unlock items and solve puzzles by fusing together magic relics.</desc>
+		<image>~/RetroPie/roms/images/Legend of Zelda, The - The Minish Cap (USA)-image.jpeg</image>
+		<rating>7.666700</rating>
+		<releasedate>01/10/2005</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Nintendo</publisher>
+	</game>
+</gameList>

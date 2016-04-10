@@ -1,0 +1,852 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Bank Panic (Japan).sg</path>
+		<name>Bank Panic (Japan)</name>
+		<desc>
+        Bank Panic is an arcade game developed by Sanritsu and manufactured by Sega in 1984. West Bank is a clone of the game, released on several platforms
+        
+        The player assumes the part of an Old West sheriff who must protect a bank and its customers from masked robbers. The layout of the bank is implicitly a circle with twelve numbered doors and the player in the center. The player can rotate to the left or right and view three doors at a time. The doors will open to reveal a customer (who will drop a bag of money, making a deposit), a robber (who will attempt to shoot the player) or a young boy (who will be holding a stack of three to five hats, which the player can rapidly shoot for a bag of money or bonus time). The level ends when all twelve doors have received one or more deposits. This is indicated by the numbered boxes across the top of the screen, with a red dollar sign showing a door with a completed deposit.
+
+At random intervals, a bomb will be placed on one of the doors and a rapid timer will count down from 99. The player must move to that door and destroy the bomb with gunfire. Shooting a customer, being shot by a robber, failing to destroy a bomb, or failing to complete the level before the overall timer runs out (shown by a bar at the bottom of the screen) costs the player one life.
+
+Although robbers can be shot on sight (an "UNFAIR" kill), greater points can be earned by waiting until they begin to draw their weapons (a "FAIR" kill). Shooting a robber at the precise moment of drawing his weapon awards a large point value and, in the case of a red-shirted robber, a letter in the word "EXTRA" (indicated in the lower left corner). Completing five such kills finishes the word, earning the player an extra life, bonus points, and instant advancement to the next level. Extra lives can also be earned by reaching certain scores.
+
+At the end of each level, the player earns bonus points based on the total number of deposits received, the amount of time remaining, and the average time for all "FAIR" kills during the level. Extra points are also earned whenever a customer makes a deposit at a door where a bank teller is sitting.
+
+Later levels introduce variations, including customers who will be shoved aside by robbers; customers who are bound by ropes (shooting them once will destroy the ropes and earn the player three bags of money, while waiting will reveal a robber); robbers who duck away from the door before drawing their guns; and red-shirted robbers who wear white boots (distinguishing themselves from the other red-shirted robbers) who carry two handguns and thus must be shot twice, though even doing so with perfect timing will not earn an EXTRA letter. At times, a robber will take money that has been deposited at one of the doors, making its red dollar sign disappear, and will be hiding behind that door, money in hand. Shooting the robber makes him drop the money, returning the deposit.
+
+Each numbered box at the top of the scree has an indicator bar that shows whether someone is approaching that door or standing behind it. When the player rotates to a door with someone behind it, it will open and the player can take appropriate action. At times, when a customer turns to leave, a WANTED poster unrolls on his/her back; the number on the poster indicates a door where a red-shirted robber is waiting.
+
+Earning a high score can allow a player to enter his or her initials in a top ten "BEST SCORE" list, which also records the level the player reached and the length of the game. Due to an odd software bug, this list is only visible when a player is making an entry, unlike the vast majority of arcade games which periodically display the list when the game is idle.
+
+The game's background music is a repeating cycle of Dixie. The tempo of the music increases when a player has nearly run out of time.
+        </desc>
+		<image>./images/Bank Panic (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sanritsu</developer>
+		<publisher>Sega</publisher>
+		<genre>Retro/shooter, Western</genre>
+	</game>
+	<game>
+		<path>./Black Onyx, The (Japan).sg</path>
+		<name>Black Onyx, The (Japan)</name>
+		<desc>
+        
+        The Black Onyx is a 1984 role-playing video game released in Japan by Bullet-Proof Software, and written by Henk Rogers. It was one of the first Japanese-language RPGs ever made, and, having sold 150,000 copies, helped familiarize the Japanese public with RPGs.[1] It was originally released for the NEC PC-8801, and ported to several other platforms. A version of the game was released for the Famicom in Japan. It featured completely redesigned gameplay, a new map, and was retitled Super Black Onyx
+
+Because of memory limitations, another part of the game were released separately on some platforms as The Fire Crystal (which added a magic system). Two other parts were announced, The Moonstone (which allowed the party to explore the wilderness), and Arena (which allowed the party to take part in Arena battles).
+
+
+The player can create a five-member party (4 members on GBC), or can ask friendly encounters to join the party to fill empty slots. The party will explore the dungeons under the town of Utsuro to obtain the legendary Black Onyx. Doing so will break the curse which binds the town in eternal night.
+
+The combat system has no concept of distance, so there are no bows or similar missile weapons. There are melee weapons, shields, and armor, however. The hospital in town can offer "examinations" which display the PCs' stats.
+
+There is a bank in town where the heroes can deposit money. This protects money from thieves; but there is no interest on the deposits, since there is no time system.
+
+The labyrinth under the town has several entrances, each hidden in one of the locations of the town. The labyrinth has six floors corresponding to the six colors the computer can display. These must be solved in the proper order (which depends on the platform) in order to create the stairway to the Black Tower, where the Onyx resides.
+        </desc>
+		<image>./images/Black Onyx, The (Japan).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Henk Rogers</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>RPG</genre>
+	</game>
+	<game>
+		<path>./Bomb Jack (Japan).sg</path>
+		<name>Bomb Jack (Japan)</name>
+		<desc>
+        The player controls Jack, a superhero who can leap and glide. Someone has planted 24 bombs at famous tourist sites (the Sphinx and Great Pyramids, the Acropolis, Neuschwanstein Castle in Bavaria, and two cityscapes resembling Miami Beach and Hollywood, which appear only as screen backgrounds rather than unique game locations). Jack must fly around the screen to collect the bombs. Each screen uses a different configuration of platforms upon which Jack may run and jump. Eventually, the levels reoccur a number of times with increasing difficulty.
+
+Jack "defuses" the bombs by simply touching them. As soon as he has touched the first, he triggers a sequence in which another bomb's fuse lights up, and so on. A player can score a bonus in each round by touching 20 or more bombs in the correct lit-fuse sequence. Jack may also defuse an unlit bomb by touching it, but this impedes his opportunity to score the bonus for that screen. It also delays the appearance of the game's bonuses and power-ups.
+
+Bomb Bonuses are triggered when Jack touches the first of 24 onscreen bombs. It is possible to collect the remaining bombs in fuse order, the maximum being 23 (the top score possible on a level). Expert players would combine this with X5 'b's for the largest multiplier score available.
+
+The lit fuses have no strategic purpose other than the bonus; a lit bomb left unattended does not explode, although the onscreen enemies become faster the longer Jack is flying around and they eventually start to follow him at speed. At this point, new enemies appear in the form of flying saucers, that 'lock on' to Jack and are difficult to avoid.
+
+Enemies such as birds, mummies, turtles, and orbs float around the screen, making Jack lose a life if he touches them. Collecting bombs will increase the bonus meter at the top of the screen (collecting lit bombs increases it more). When the meter is completely filled up, a circular bouncing "P" appears, and when collected, it will turn all the enemies into bonus coins for a short period during which Jack may collect them. Other similar bonuses are the B (Bonus) which increases the score multiplier (up to 5x), the E (Extra) which gives an extra life, and the rare S (Special), which awards a free game.[2]
+
+The Twin Galaxies highest scores for Bomb Jack on the MAME (arcade) platform are 73,378,560 on marathon settings, and 4,888,740 on tournament settings (5 lives only), achieved by Paul Kearns of London. He has many videos and a walkthrough tutorial on his YouTube channel.
+        
+        </desc>
+		<image>./images/Bomb Jack (Japan).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Tehkan</developer>
+		<publisher>Tehkan</publisher>
+		<genre>Platformer</genre>
+	</game>
+	<game>
+		<path>./Borderline (Japan, Europe).sg</path>
+		<name>Borderline (Japan, Europe)</name>
+		<desc>Borderline is a 1981 arcade game by Sega. The player controls a Jeep and has to destroy enemy refineries. There are four stages with different gameplay. The first stage plays very much like a vertical scrolling shooter. In the second stage, the player maneuvers his Jeep through underbrush, and enemies can only follow on its path, a concept later found for example in Dig Dug or Digger.
+
+It was a launch game for the SG-1000.</desc>
+		<image>./images/Borderline (Japan, Europe).png</image>
+		<releasedate>19830715</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Castle, The (Japan).sg</path>
+		<name>Castle, The (Japan)</name>
+		<desc>
+        The Castle is video game developed by ASCII and released for the SG-1000 in 1986. It is a port of an MSX game of the same name, and is largely identical due to the similar hardware between the two machines. Due to the decline of the SG-1000 and emergence of the Sega Master System, the game was not released in Europe or Australia like many other SG-1000 games.
+
+The Castle was the last SG-1000 game to be released commercially by Sega on a cart, and the only SG-1000 to adopt packaging more akin to Sega Mark III games. The Black Onyx would be the very last SG-1000 game to be released by Sega, but this would be on card.
+
+The game has a fairly standard plot of rescuing a princess from a castle, though the game itself was considered very large for the time. It also contains a map system similar to that of later Metroid and Castlevania games.
+
+The Castle was followed by the MSX/NES game Castle Excellent later in the year. The MSX version was also brought independently to the SG-1000 in Taiwan.
+
+
+        </desc>
+		<image>./images/Castle, The (Japan).png</image>
+		<releasedate>1986</releasedate>
+		<developer>ASCII</developer>
+		<publisher>ASCII</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Chack'n Pop (Japan).sg</path>
+		<name>Chack'n Pop (Japan)</name>
+		<desc>Chack'n Pop (ちゃっくんぽっぷ Chakkunpoppu?) is an arcade game released by Taito in 1983, considered to be an ancestor of Bubble Bobble due to the appearance of many similar enemies and Bubble Bobble's duplication of a Chack'n Pop level. 
+        
+        The Sega SG-1000 version is notable for featuring extended introduction and ending sequences and a small additional training stage before the first.
+
+Chack'n, a small yellow creature (later recolored green) with extendable legs must traverse a series of single-screen mazes. He is capable of walking on floors or ceilings but not walls. He can climb steps and traverse high walls by extending his legs until he is tall enough to pass onto the next step. He is capable of throwing hand grenades to his left or right which, after a short period, explode into a cloud of smoke. Separate fire buttons control rolling to the left or right. Chack'n is killed if caught by the explosion cloud.
+
+Each screen is played against a time limit, marked by a Mighta pushing a boulder along the top of the screen. The Mighta reappears in Bubble Bobble as a recurring enemy.
+
+Chack'n's aim is to reach the top of the screen before the time limit expires. He is delayed in this process by a series of solid walls. In order to get past the walls, he must free hearts from cages using his hand grenades.
+
+A further obstruction comes in the form of Monstas (same creatures to appear in Bubble Bobble) hatching from eggs. Hand grenades can also be used to destroy the creatures or the eggs producing them (however, the player will get bonus points after completing the level for not destroying any enemies). Later levels include moving platforms and, reminiscent of Bubble Bobble, water bottles that when blown up flood the level with water. The water does not destroy anything or in any way inhibit the movement of the enemies, but it allows Chack'n to swim to otherwise unreachable platforms.
+
+Once all the levels are completed, Chack'n is able to marry his girlfriend, Miss Chack'n.
+        </desc>
+		<image>./images/Chack'n Pop (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platformer</genre>
+	</game>
+	<game>
+		<path>./Challenge Derby (Japan).sg</path>
+		<name>Challenge Derby (Japan)</name>
+		<desc>Challenge Derby celebrates the exciting world of horse race betting. Up to eight people can bet extravagant amounts of yen on the horses by passing the unwieldy Multivision console back and forth (don’t forget, the controller is built in to the console). When the races begin, watch in amazement as the multi-colored stallions race to the finish line. Watch hard, because you can’t actually control the horses. At least in Challenge Derby, horse racing is a purely spectator sport. If you’re not yelling at jockies while wearing a floppy fisherman’s hat, gray and brown clothes, and a five o’clock shadow, you’re not spectating properly.</desc>
+		<image>./images/Challenge Derby (Japan).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Tsukuda Original</developer>
+		<publisher>Tsukuda Original</publisher>
+		<genre>Horse Racing</genre>
+	</game>
+	<game>
+		<path>./Champion Baseball (Japan).sg</path>
+		<name>Champion Baseball (Japan)</name>
+		<desc>
+        Champion Baseball is a 1983 baseball arcade game developed by Alpha Denshi and published by Sega. The game was a sophisticated sports game for its time, displaying the playfield using multiple camera angles, including a close-up shot of the batter and pitcher, and giving players the option of selecting relief pitchers or pinch hitters, while an umpire looks on attentively to make the game calls. The game became very popular in Japanese arcades when released in 1983, at one point enjoying a level of popularity comparable to Space Invaders according to Sega.
+        
+The player controls a baseball team, against a computer-controlled team, with the player batting at the top of each inning. In a two-player game, each will play independently against the computer, one inning at a time. Standard baseball rules apply, with the player awarded points for various accomplishments such as hitting a pitch, safely reaching any base, pitching a strike, getting a computer player out, or retiring the computer's side to end an inning.
+
+Before play begins, the player can choose which city/state to represent from a list containing Los Angeles, Cincinnati, Atlanta, Pittsburg (probably a typo for Pittsburgh, Pennsylvania), Chicago, Montreal, St. Louis, Boston, Milwaukee, New York, California and Texas (all of whom had major-league baseball franchises in 1983). The computer then randomly selects from among the remaining cities.
+
+If at any time the computer team has scored more runs than the player, the game immediately ends. The high-scores list ("FAR OUT PLAYERS") can hold the initials of up to six players.
+        </desc>
+		<image>./images/Champion Baseball (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Alpha Denshi</developer>
+		<publisher>Sega</publisher>
+		<genre>Baseball</genre>
+	</game>
+	<game>
+		<path>./Champion Billiards (Japan).sg</path>
+		<name>Champion Billiards (Japan)</name>
+		<desc>Champion Billiards is a simplistic billiards game built for the SG-1000. It is the first game in Compile's "Lunar Pool" series. It was not released outside of Japan.
+
+Unlike the other Champion Sports games, Champion Billiards is not an accurate representation of it's sport. Instead, Champion Billiards is a level-based physics game. The goal of each level is to use the red cue ball to sink the other balls.
+
+Trivia: Breaking open the yellow ball can release a yellow Flicky.</desc>
+		<image>./images/Champion Billiards (Japan).png</image>
+		<releasedate>1986</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Billards</genre>
+	</game>
+	<game>
+		<path>./Champion Boxing (Japan).sg</path>
+		<name>Champion Boxing (Japan)</name>
+		<desc>Champion Boxing is a 1984 boxing sports arcade game developed and published by Sega for the arcades, and later ported to the Sega SG-1000 the following year, only in Japan and Europe. It was Sega-AM2 founder and leader Yu Suzuki's debut creation, along with AM7's Rieko Kodama. In 1985, a successor of Champion Boxing titled Champion Pro Wrestling was released in the arcades, and ported to the SG-1000 and the MSX home computer the same year. However, this is a professional wrestling game instead of a boxing game.</desc>
+		<image>./images/Champion Boxing (Japan).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Sega-AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Boxing</genre>
+	</game>
+	<game>
+		<path>./Champion Golf (Japan).sg</path>
+		<name>Champion Golf (Japan)</name>
+		<desc>Playing Champion Golf is the equivalent of eating a soggy bowl of Wheaties: each has champion potential, but upon digestion, both leave you feeling empty and worthless.
+
+On the first hole, you’ll notice your environment: bunkers, green grass, palm trees, and a white pixel representing your ball. Like most golf games, a good shot depends on the wind, the club you choose, and the power of your swing. Notice the golfer encased in a white box at the top of the screen, repeatedly swinging his club back and forth like some condemned madman. His continuous swinging actually represents your power meter, and you must pay attention to the angle of his swings if you want to advance. Before you swing, however, look for a little white man (your caddie?) standing outside the borders of the course. The ball will always fly towards him, so make sure to place him in the appropriate direction. Moving him around can be tedious and confusing at times, but you grow to appreciate his tireless work ethic. As for swinging: Hit ‘II’ as the golfer raises his club and the ball will hopefully soar towards the green. Hit ‘II’ as he brings the club down, and there won’t be any strength behind the hit. It takes a few swings to get accustomed to the power meter, but you shouldn’t have any serious trouble thwacking the ball until you reach the green. For the most part, Champion Golf offers you the right club for the right shot, but not always; you don’t want to use a five-iron when you’re a few inches from the green, for example, though the game might suggest otherwise. On the holes I played, the wind was never strong enough to be a problem so I ignored it. Once you’re on the green, get your brief bits of rejoicing out of the way and don a bitter beer face: putting awaits.</desc>
+		<image>./images/Champion Golf (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Logitec, Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Golf</genre>
+	</game>
+	<game>
+		<path>./Champion Ice Hockey (Japan).sg</path>
+		<name>Champion Ice Hockey (Japan)</name>
+		<desc>Champion Ice Hockey does indeed bring the sport of ice hockey to the SG-1000, just as Champion Baseball, Boxing, Wrestling, Soccer, Golf and so forth brought their respective sports. As anyone who’s read my reviews of these other sports games can attest, the Champion series bears no signature of quality. Outside of Boxing, none of the games are playable for more than a few minutes, and for a number of reasons including, but not limited to: poor physics, unresponsive controls, broken mechanics, and… well, that’s enough. I’d like to think that these games’ weaknesses are as much due to hardware limitations, rather than Sega’s poor development skills. Champion Ice Hockey doesn’t break Sega’s streak of mediocre sports titles, but it is one of the better games in the series. Unfortunately, this says more about the Champion Sports line than it does about Ice Hockey‘s own quality.
+
+Forget about team names, stats, any of that simulation stuff. You choose your difficulty level (Amateur, Semi-Pro, and Pro), then head to the ice for 3-on-3 puck-slappin’ action. A cursor – easily maneuvered with the joystick – highlights whichever player you’re in control of, while Button I shoots and Button II passes. Drive the puck past the goalie and score points, while avoiding the violent outbursts of the opposing team. It’s ice hockey, alright.</desc>
+		<image>./images/Champion Ice Hockey (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Hockey</genre>
+	</game>
+	<game>
+		<path>./Champion Kendou (Japan).sg</path>
+		<name>Champion Kendou (Japan)</name>
+		<desc>Alright, kendo fans, I know you’ve been clanking your bamboo swords together in anticipation for this one. The question that’s on your minds: does Champion Kendou accurately probe the subtle depths of the martial art? Well, for those who may not know what kendo means (like myself prior to this review), the word “kendo” means “Way of the Sword,” while the practice of kendo itself is “a Japanese form of fencing with two-handed bamboo swords, originally developed as a safe form of sword training for samurai.” Champion Kendou does throw two presumably Japanese gentlemen into an arena, complete with armor, bamboo swords, and spectators. Beyond that, your guess as to whether the SG-1000 does kendo justice is as good as mine.
+
+Like the other Champion games on the SG-1000, there are menu options you need to select prior to wielding your bamboo sword. Two of these options are in Japanese and affect how the match is fought. Both options place the fighters in the ring, but the second option displays a power meter underneath each fighter, while the first option shows a string of white kanji-filled dominoes underneath the fighters. To be honest, I’m not sure what the dominoes represent. I thought they might unleash specific moves once selected, so I tried scrolling through them as the characters fought with the joystick. The dominoes did not comply with my tactics, so I did the best I could, which is to say, not very good at all. There are also six levels of difficulty for you to choose on the menu screen. The higher the difficulty you select, the more you should probably know about kendo (and how to control your player) before fighting your opponent.</desc>
+		<image>./images/Champion Kendou (Japan).png</image>
+		<releasedate>1986</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Champion Pro Wrestling (Japan).sg</path>
+		<name>Champion Pro Wrestling (Japan)</name>
+		<desc>Champion Pro Wrestling is a jabroni, a loser of a wrestling title that makes its predecessor, Champion Boxing, look like the People’s Champ by comparison. You play an average gnarled face wrestler, while the computer plays a mighty luchador (already the game is unfair). Lower the luchador’s stamina bar by performing powerful moves on him, then pin him and advance to the next Challenge rank. Your moves are delivered not by complex button and joystick inputs, but from a move list – an element recycled from Champion Boxing. This move list is where Pro Wrestling takes a chair to the face. Once you select and execute a move, you will no longer have a move selected. Your move may have struck your opponent or you may have wiffed. Either way, the move list will turn blank, and you will not be able to execute a move unless you select it again. This forces you to constantly re-select your moves, when the move should be highlighted for as long as you want to use it. The computer has no trouble keeping the moves going, but trust me when I say re-selecting your moves feels awkward and takes precious seconds away from the match. Strangely, Champion Boxing never did this. If you selected an Uppercut, your boxer would Uppercut punch until you chose a different move.</desc>
+		<image>./images/Champion Pro Wrestling (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Wrestling</genre>
+	</game>
+	<game>
+		<path>./Champion Soccer (Japan).sg</path>
+		<name>Champion Soccer (Japan)</name>
+		<desc>Champion Soccer is a betrayal of the game you love, an unplayable whirlwind of chaotic nonsense, and a really crappy way to end your already crappy day.
+        
+        Champion Soccer is an early sports game, so the requirements to play are minimal. You won’t choose different teams or perform fancy acrobatics. Instead, you’ll attempt to guide the ball around the soccer field with a group of erratic Muppet soldiers. Running with the ball isn’t difficult, per say, but the choppy player movements make the in-game action hard to discern. Imagine poorly-rendered stop-motion that your eyes can’t focus on without considerable effort. The opposing team runs faster than your team, as well, so even if you grab the ball away from them, they’ll always manage to take it back. Both teams will often get into what I call “kicking ruts.” One team kicks the ball high across the field, then the other team, then back and forth until you allow the computer to start running with the ball. Scoring a goal is impossible because the computer will never let you get that far, even on the Amateur difficulty level. The computer’s not overly cheap, they’re just aggressive, and your players aren’t allowed to match their levels of aggression. “What’s going on?” and “Why am I not allowed to score?” are two questions that should never be asked during any sports game. Champion Soccer not only raises said questions, but leaves them unanswered. Sega at their laziest.
+
+F</desc>
+		<image>./images/Champion Soccer (Japan).png</image>
+		<releasedate></releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>1984</genre>
+	</game>
+	<game>
+		<path>./Champion Tennis (Japan).sg</path>
+		<name>Champion Tennis (Japan)</name>
+		<desc>Champion Tennis doesn’t let you choose from an array of famous tennis players, like Billie Jean King, Anna Kournikova or Andre Agassi. There’s no optional difficulty, like in Nintendo’s Tennis. You can’t win money from matches to purchase different rackets or customizable clothing. Heck, outside of serving, you’re not even allowed to control the swing of your racket. There’s two-player simultaneous play, but no, you can’t play doubles (I envision the SG-1000 melting as it tries to process such a laborious request). Appreciate Champion Tennis as the spartan thirty-year-old endeavor that it is, or deride the game for being little more than a Pong clone dressed in a short skirt and starched white socks.</desc>
+		<image>./images/Champion Tennis (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Championship Lode Runner (Japan).sg</path>
+		<name>Championship Lode Runner (Japan)</name>
+		<desc>Remember Lode Runner? Stick man with questionable agenda collects all the gold sacks in each level while being pursued by other stick men. Not quite a puzzle game, not quite an arcade game, something in between. People with moderate intelligence (like me) could beat the game with enough time, effort, and patience. Not so with the followup. You’re gonna need the mind of a champion to even get past the first couple levels of Championship Lode Runner, let alone the entire fifty-level game. Like, eat a box of Wheaties a day, understand the entirety of quantum physics, and “Hey look, I found Bobby Fischer!” type-of champion. I’ve come to terms that I’m not smart enough to complete the game past level two. And you know what? My grandma is Mensa-level smart and she’s only reached level fifteen. No joke, my grandma owns a copy of Championship Lode Runner and has been playing it off and on for about twenty years, since I was a kid. This game does not front on its definition of “champion.”
+
+In level two, for example, the game has the Lode Runner and an evil stick man falling adjacent to each other as the level begins. The Lode Runner is placed slightly above the stick man because as they fall, the Lode Runner will need to run atop the stick man’s head back and forth in order to collect four precariously placed pieces of gold. Fail to do this right the first time and you need to re-start the level. But that’s only the first part of the level. Many of the levels need to be analyzed and thought through before you even start. Unlike the original Lode Runner, there is no margin for error here, no multiple ways to collecting every gold bag. Play like a champion or get out, basically.</desc>
+		<image>./images/Championship Lode Runner (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Broderbund</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Choplifter (Japan).sg</path>
+		<name>Choplifter (Japan)</name>
+		<desc>The SG-1000 version of Choplifter looks fantastic, sounds amazing, and plays astonishingly well. The helicopter controls in particular are some of the tightest I’ve felt on the system. Cor blimey, is this game tough, though. Once the jet fighters get called in, you have to tiptoe your way across the desert (as much as helicopter can tiptoe, anyway) to get back to where your hostages are located. If you fly like a banshee spitting hot fire, you’re guaranteed to get hit by the jet fighters barely visible pixel bullets or by the fighter itself. I made it to the second level once, and the difficulty there was even more frightening. Instead of land hostages, you’re rescuing hostages stranded at sea. Right from the time you enter into enemy territory, you’re bombarded by ships and jet fighters and air mines all at once. Let’s just say a certain junior pilot – we’ll call him D. Cornelius – lost his wings in a hurry.</desc>
+		<image>./images/Choplifter (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Broderbund</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Congo Bongo (Japan, Europe).sg</path>
+		<name>Congo Bongo (Japan, Europe)</name>
+		<desc>Congo Bongo‘s ingredients consist of one-part Donkey Kong (man-vs-ape), one-part Q-Bert (dig that tripped-out isometric perspective), and two-parts Frogger (using creatures as pathways to greatness). All told, Congo Bongo is a four-level arcade game with a dearth of original ideas. Lack of originality isn’t a sin, though, and the combination of elements from three enjoyable games could result in a singularly excellent game. Aside from an inspired first level, which re-imagines the first-level of Donkey Kong from an isometric perspective, Congo Bongo feels tired, as though Sega couldn’t extend inspiration from the first level into the rest of the game</desc>
+		<image>./images/Congo Bongo (Japan, Europe) (Alt).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./C_So! (Japan).sg</path>
+		<name>C_So! (Japan)</name>
+		<desc>
+        C_So! (Ｃ-ＳＯ！) is a 1985 SG-1000 game developed by Compile and published by Sega. It is a port of an MSX game from the same year, which was published by Pony Canyon.
+
+The game has the player collect various items and defeat monsters by using see-saws. In order to progress, all items must be collected and all monsters must be destroyed. There is also an edit mode, allowing the player to create their own levels.
+
+The game was only released in Japan.
+
+A South Korean company Joy Soft redundantly produced their own unlicensed "port" of the MSX version to the SG-1000 as well.
+        </desc>
+		<image>./images/C_So! (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Dokidoki Penguin Land (Japan).sg</path>
+		<name>Dokidoki Penguin Land (Japan)</name>
+		<desc>
+        Upon first glance, Doki Doki Penguin Land appears to be a cutesy puzzle game about a father penguin rolling an egg home safe and sound to its mother. The penguins’ home is found many levels below a pre-constructed igloo, levels constructed of brick, boulders and ice. Brick is dug through by the penguin a la Lode Runner, while ice and boulders are solid. Boulders are easily pushed, however, and are good for constructing platforms and crushing those who would oppose the penguin and his egg. The egg can’t be dropped beyond a certain point highlighted by a line that appears underneath it; nor can it interact with the frozen underground denizens like the Polar Bear or the Armadillo. The Armadillo will immediately destroy the egg with its claws, while the Polar Bear will bat it around for awhile before it breaks. The penguin himself can’t be killed, only maimed by the Polar Bear (just like in… real life?), but if the egg breaks, you lose a life and begin the process anew.
+
+Doki Doki Penguin Land‘s challenge forces you to always think one step ahead, analyze each level, and choose your path wisely. Sometimes the penguin has to leave the egg to shoo a Polar Bear guarding a lower level, or he must dig through layers of brick in order to make a safe landing for the egg. Armadillos will emerge like wizards from the brick itself if the game feels you’re wasting too much time figuring out the best downward path. While there are usually two ways one could bring the egg down in any given level, some routes – ones with more padding and less enemies – are certainly better than others. Also, there is no option to restart the level like in Adventures of Lolo. If your egg gets stuck in a hole, you have to smash it and start over from the beginning. Accept that every level will require some trial-and-error – again, like Lolo – and you’ll enjoy the adventure.
+
+There are twenty-five levels total, and while you only have three lives, no continues, you are able to choose any level you wish to start at from the main menu screen. While the stage selection might seem overly generous, particularly for 1985, it’s a nice concession from Sega given the game’s difficulty.
+        </desc>
+		<image>./images/Dokidoki Penguin Land (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Dragon Wang (Japan).sg</path>
+		<name>Dragon Wang (Japan)</name>
+		<desc>Yes, I know: Dragon Wang. I’m having a laugh right now! It’s ok, you can have a laugh too. We’re all adults here.
+
+Ah, but if only the game was as brilliant and juvenile as its title. You play The Man With No Shirt otherwise known as a Mr. D. Wang (that would make his surname Wang then, I suppose – there’s nothing funny about that), and your mission is to rescue some chick you met while practicing Tai Chi on a mountain. Legions of shirtless bad guys run up to you, longing for your fist or foot to meet their face or ankles. Sometimes the “Sans Shirts” (my name, not the game’s) will get a hit in, especially if they’re chucking knives at you. Rude and dangerous? That’s the name of the Wang. The amount of shirtlessness on screen varies per playthrough, though. Sometimes D. Wang will walk through an entire level and only see a couple dudes. Other times, you’ll be swamped by bulging chests, flabby stomachs (‘cept yours, natch), and pit sweat. Reach the end of the level and you’ll fight a boss who has a weapon, an obvious advantage over your weapon-less state. Keep Wang’s life up and you might beat the boss, but more likely, you’ll be bludgeoned to death by cheapness. And so it goes, for four mindless floors.</desc>
+		<image>./images/Dragon Wang (Japan) (Alt).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat em up</genre>
+	</game>
+	<game>
+		<path>./Drol (Japan).sg</path>
+		<name>Drol (Japan)</name>
+		<desc>I fail to see why Drol exists. Is the fun derived from shooting enemies for copious amounts of points? Points are achieved easily enough by standing in the middle of any of the four stories and shooting back and forth. Enemies regenerate forever and there is no time limit. Have at it. Destroy! Consume! Drol! And why are you a robot? Beyond levitation, you don’t do any inherently robot-y “things”; I’m not sure I would equate levitation with robots, anyway. The balloon girl and the lizard are neat designs, but they’re just as random as the goblin gargoyles and scorpions that chase you around. You collect the girl and the lizard because the game tells you to, not for any particular reason. Nothing in Drol makes sense. Nothing made me care about what was happening at any given time, nor did I ever feel a desire to push forward. I could if I wanted to, I suppose: the game only starts to get hard after you’ve gone through the three levels a couple times. But why bother? Why, Drol? Why Drol, indeed.</desc>
+		<image>./images/Drol (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Broderbund</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Elevator Action (Japan).sg</path>
+		<name>Elevator Action (Japan)</name>
+		<desc>Elevator Action casts you as Agent 17, an unknown secret agent on the prowl for sensitive documents in dimly lit office buildings. You start at the thirtieth floor of each building and ride elevators to the ground floor, searching for red doors and protecting yourself from enemy agents. While the building is predominantly filled with blue doors on each floor, red doors hold the documents you need to collect. Enter a red door and leave it to collect the document you need – simple as that. Enemy agents will appear frequently, sometimes in clusters of two or three. Shoot them or kick them in the face to make them disappear (or squash them with the elevator, the most hilarious and therefore best option). Mind the enemy agents bullets, though, particularly as you ride down the elevator. Sometimes the agents will see you coming up or down on the elevator and shoot in advance. Bullets are red, narrow, and hard to see, so if you even think they might be shooting, jump to prevent death. Light bulbs can be shot down, as well – both to disable enemies (assuming the bulb lands on them) and to darken the area.
+
+        The building’s layout becomes more difficult to traverse the further down you travel. From floors 30 to 20, hit down and ride the elevator like a boss, unless a red door on the side hastens you to pull over. Levels 20-1 switch up the layout with multiple elevators, already darkened hallways, walled-off portions and, of course, extra agents emerging from every which way. Once you gather up all the documents, make it to the ground floor, get in your Agency approved sports car, and fly, baby, fly to the next building. Each building’s layout remains more or less the same, but the red doors are always in different areas and the enemy agents are craftier.
+
+Elevator Action was a surprisingly successful arcade game in 1983. I say “surprisingly,” because while I personally find the game addictive, I’m not sure I understand why. The game isn’t suspenseful or moody, despite the secret agent window dressing. Going into a few red rooms while dodging enemy agents isn’t the most thrilling objective, either. Yet there’s something about scaling down thirty floors of a building using slow-moving elevators that feels so right. Elevator Action is, in my opinion, the type of arcade oddity that could have only been made in 1983, yet it remains highly playable today.
+</desc>
+		<image>./images/Elevator Action (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Taito</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Exerion (Japan, Europe).sg</path>
+		<name>Exerion (Japan, Europe)</name>
+		<desc>If shoot-em-ups were thirst-quenching beverages, Exerion would be watered-down Gatorade: there’s a hint of flavor in the mix, but after a few sips, you’ll be yearning for something more substantial.
+
+When you start to play Exerion, the first element you’ll notice is the parallax scrolling. The game simulates controlling a space craft across an alien landscape at high speeds, while waves of squiggly lines, atomic models, and other seemingly inanimate threats to mankind, race towards your ship. 1983, the future was thirty-one years ago, etc, and indeed, the background scrolling remains a neat trick today. Unfortunately, the scrolling juxtaposed against the enemies’ movement patterns is jarring and borderline nauseating. The hills in the background roll along like sine waves, while enemies fly horizontally, vertically, and diagonally across the screen. Every bit of movement – including the ship you control and the enemy fire – commands your attention. Thus, it’s best to focus on your ship and the enemies, while tuning out the background completely for minimum dizziness.</desc>
+		<image>./images/Exerion (Japan, Europe).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Flicky (Japan).sg</path>
+		<name>Flicky (Japan)</name>
+		<desc>Flicky was a brief flash of inspiration for Sega, and up until 1984, the closest a Sega-developed game had come to mimicking Nintendo’s colorful character-driven style. Flicky, the Piopios, the Nyannyan cats, and the Choro Iguana designs burst with life and personality. The story – help Flicky rescue her baby birds from the perils of the outside world – was heartfelt and relatable. Most importantly, Flicky‘s short bursts of addictive gameplay coupled with its wonderfully-rendered characters gave the game a well-rounded depth unlike any in Sega’s catalog up to this point. Flicky isn’t quite a masterpiece, but to my mind, the game heralded a new wave of creativity in their arcade output, while also foreshadowing their future mascot rivalry with Nintendo.
+
+In Flicky, you control the blue bird Flicky around different levels of an apartment building. Her babies, the Piopios, are adrift and must be collected by Flicky and taken to the exit. The birds amass behind Flicky in a single-line formation and will stay behind her unless they’re disrupted or taken to the exit. The more birds you deliver to the exit at one time, the more bonus points you’ll acquire; extra points are also given for beating the level quickly.</desc>
+		<image>./images/Flicky (Japan).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Girl's Garden (Japan).sg</path>
+		<name>Girl's Garden (Japan)</name>
+		<desc>In Girl’s Garden, you control a young girl named Papri. Papri must collect a bouquet of flowers to take to her boyfriend, Minto. If Papri doesn’t get the flowers to Minto in time, he will leave her for another girl, Cocco. The flowers are collected in a large field that also teems with bees and bears. Bees are your allies and will often drop pieces of fruit worth bonus points, extra lives, and even pre-made bouquets of flowers. Bears, however, get aggravated when they see you, and will not hesitate to maul you unless you give them some honey. Once bears see the honey, they are distracted and you’re free to move near them for a limited time. You start the game with five honeypots in tow, but these will not last long unless you use them sparingly. Honey is only-reacquired when you begin another level or if you collect a bee that’s pollinating a flower. Flowers in the field come in one of three types: pre-bloom, full bloom, or dead and wilting. Only the blooming flowers count towards your bouquet; if you collect a budding flower, it adds nothing to your count, and if you collect a wilting flower, it eliminates half of the flowers you’ve already collected. Once you’ve collected enough flowers, you take them to Minto’s house. He accepts them with joy, the field magically blossoms with rows of flowers, and your love becomes an undying love – until the next level when Minto demands another bouquet of different flowers.</desc>
+		<image>./images/Girl's Garden (Japan).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Golgo 13 (Japan).sg</path>
+		<name>Golgo 13 (Japan)</name>
+		<desc>Golgo 13 for the SG-1000 begins with Duke leaning out of a car with his sniper rifle. The car is driving on a paved road alongside two parallel train tracks and another parallel paved road. The train in the background contains an array of lighted windows that Duke must shoot in order to complete the level (and release hostages??), while the train in the foreground contains boxcars that, if shot, will propel Duke’s bullets backwards towards him. Both trains are constantly moving at different speeds, so lining up your shot can be tough. The best way to shoot the lighted windows is to line up Duke’s cursor with the windows and leave it there. Even if boxcars or other vehicles pass in front of your aim, if you don’t move the cursor, it will still be where you left it once the boxcars move on. If Duke gets hit by his own bullet, you lose a life. If the time limit runs out, you lose a life. Level 2 brings in trucks that drive on the dirt road in front of the foreground train at varying times, further blocking your bullets, while Level 3 has a helicopter that drops bombs on you. Once you reach Level 5, the levels repeat, but the stress-filled gameplay never lets up.</desc>
+		<image>./images/Golgo 13 (Japan).png</image>
+		<releasedate></releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shotoer</genre>
+	</game>
+	<game>
+		<path>./GP World (Japan).sg</path>
+		<name>GP World (Japan)</name>
+		<desc>Speeding around the globe in a F-1 Formula car is a vagabond’s pursuit. You don’t drive for euro-sign bags full of money, glamour shots, or command of supermodels. You drive for the sharp turns, the squeal of the brakes, the visions of heaven as you narrowly escape death. No game can embody the recklessness of traveling around courses at 300 km/hr, but GP World – for all its technical limitations – comes close. The threat of death as you drift around a dangerous corner won’t be real, but the sweat dripping from your furrowed brow will be.
+
+Naturally, Canada has the easiest course layout, so you’ll begin your world-encompassing mega race there. The goal in GP World isn’t to take first place, but to beat the qualifying time listed at the top of the screen. Race two laps around the course before your timer reaches the qualifying time limit, and you’ll move on to the next course. Other F-1 drivers are present to give you grief, as well. Many will know their place and allow you to pass, but some will try to bump you off the road, like some common wastrel. Pay the fools no mind: they are jealous of your luscious jet-black wavy hair and expensive Italian sneakers.</desc>
+		<image>./images/GP World (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Gulkave (Japan).sg</path>
+		<name>Gulkave (Japan)</name>
+		<desc>Gulkave, you generous, infuriating bastard of a shoot-em-up. Thirty stages, eight bosses, unlimited continues, unlimited death. Without the continues, only the nimblest of warriors would get past the second stage. Without the constant death, nobody would want to get past the second stage. And thirty stages? Eight bosses? Modern shoot-em-ups should be so giving. Gulkave is more about content than creativity, but the game’s relentless pace keeps one motivated until the end.
+
+Gulkave begins like any other horizontal shmup circa 1986. You’re a starship in the depths of space, and your goal is to shoot down streams of enemies with varying movement patterns. There are about a couple dozen enemies you’ll encounter throughout the course of the game. They range from: little red balls that follow you but don’t shoot at you, to green boogers that won’t attack you unless you attack them, to white orbs that travel along the top and bottom of the screen and shoot out a stream of bullets, etc. There are also eight bosses, otherwise known as The Eight Fortresses of the Gulbas Empire (patent pending). The fortresses appear at the end of every third or fourth stage and have several pieces that need to be destroyed before they’re officially toppled. You have a life meter entitled “Barrier” that allows you about three or four hits, depending on if your ship absorbs a bullet or an entire enemy. It’s sweet that Gulkave allows you more than one hit before you explode, unlike other shumps, but such kindness doesn’t make the game any less forgiving. If anything, a life bar makes the game expect more from you.</desc>
+		<image>./images/Gulkave (Japan).png</image>
+		<releasedate>1986</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./H.E.R.O. (Japan).sg</path>
+		<name>H.E.R.O. (Japan)</name>
+		<desc>In H.E.R.O., you guide Mr. Hero down an about-to-burst volcano to rescue miners. The miners are trapped in the center of the volcano, which takes some time to reach, don’tcha know. Before you get to them, you work your way through a number of adult situations: bats, moths, snakes, lava, both vertically dribbling and in horizontal pools. These situations are totes doable because Roderick is equipped with a jetpack, (only in the SG-1000 version, which I guess should technically be called J.E.R.O.), a laser gun, and a certain amount of dynamite, depending on the level. The dynamite should be used for walls only, and- hey, don’t stand so close to it unless you want to die. The laser gun is for the wee enemies who would have been killed by the encroaching lava anyway, so no harm, no foul.</desc>
+		<image>./images/H.E.R.O. (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Hang-On II (Japan).sg</path>
+		<name>Hang-On II (Japan)</name>
+		<desc>Even gamers familiar with Sega’s influential Hang-On series have probably never heard of Hang-On II. Besides being a Japanese SG-1000-only release, this supposed sequel is actually just a port of the original arcade Hang-On, and thus, not a sequel in the slightest.
+        
+        As in Hang-On, Hang-On II has you racing across five distinct stages in order to beat the time. You receive sixty seconds per stage, an amount that refills when you complete the stage. Twists and turns abound, as do other motorcyclists who seem hellbent on making you crash. They’ll usually sidle up next to you as you pass them or refuse to move out of your way if you come up behind them. Thankfully, the controls are pitch-perfect for avoiding them, even when they seem to smother every inch of the highway. Driving and switching gears via the joystick is incredibly intuitive, as is accelerating and braking with Buttons I and II, respectively. The controls are so good, in fact, that if you crash into anything, it’s almost always your fault. The experience of taking turns at 280 km/hr while riding the brake and narrowly avoiding another biker is a thrilling experience that has no replication on the SG-1000.
+
+</desc>
+		<image>./images/Hang-On II (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Home Mahjong (Japan).sg</path>
+		<name>Home Mahjong (Japan)</name>
+		<desc>Mahjong and Tsumeshogi may have been filled with katakana, but the amount of text didn’t prevent me from playing either title. I stumbled my way through both games with limited understanding of Japanese and enjoyed myself within reason. But Home Mahjong? Lord help my lack my comprehension. The menu options are clear enough: two players can mahjong royale against each other; or two players can unleash the beast on one-to-two computer opponents; or one player can prove he’s the best (around) on three computer opponents. If you’re hittin’ the mahjong tiles solo, the latter option is your only choice, which is kind of a drag if you’re a tired American emulating a thirty-year-old Japanese mahjong game and you want to take things slow. Whenever you play the computer, you select what I presume is the difficulty of your opponents. There are ten choices on the computer difficulty screen, all of them mountains of text that I couldn’t read. Once you finally reach the table, a chipper musical ditty informs you that mahjong is about to begin. Thanks to my time with the original Mahjong, I felt somewhat at peace playing mahjong, though being forced to battle three skilled computer opponents did set me on edge a little. As I played, I noticed that every time you placed a tile, the cursor moved to a range of options in the middle of the screen. The options included “Kan,” “Chi,””Ri-Chi,” “Agari,” among other phrases that I had never encountered in my previous mahjong excursions. Every time I selected one, an angry noise informed me that I was in the wrong. I decided to ignore the noises and play mahjong as best I could. Which is to say, not very well.</desc>
+		<image>./images/Home Mahjong (Japan) (v1.1).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Mahjong</genre>
+	</game>
+	<game>
+		<path>./Hustle Chumy (Japan).sg</path>
+		<name>Hustle Chumy (Japan)</name>
+		<desc>Hustle Chumy! If you’ve seen “American Tail,” you already know the story: in a poverty-stricken sewer system, a sewer mouse named Chumy has to collect food to survive. He doesn’t have a Eastern-European family and he isn’t as cute as Fievel, but dammit, he’s hungry. Each level is strewn with different types of food, like apple cores, half-eaten hamburgers, and, uh, ribbon candy. The more food Chumy eats, the more he bloats, which is surprisingly realistic. While bloated, Chumy moves slower, putting him at a risk for getting caught and killed. Thankfully, he has a high jump that can vault him over the majority of his foes. Eat all the food in the stage and hop/walk slowly back to the entrance of the sewer to do it all over again in the next level. Starvation averted, at least temporarily.</desc>
+		<image>./images/Hustle Chumy (Japan).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Hyper Sports (Japan).sg</path>
+		<name>Hyper Sports (Japan)</name>
+		<desc>Hyper Sports might be a part of Konami’s semi-hallowed Track &amp; Field series, but thanks to the game’s unforgiving mechanics, I couldn’t tell.
+
+There are four events – diving, long horse, trampoline, and horizontal bar – and I completed exactly none of them, due to the game’s rigorous qualification standards. Diving is the first event, and it’s also where my progress stopped. You jump three times on the diving board with the hopes of getting greater air with each successive jump. Then, as you’re falling, somersault as much as you can by pressing Button II repeatedly before straightening out for the landing with Button I. To move on to the next round, I had to get a qualification score of 7.60. As Alucard as my witness, I could not get more than a 7.40 from the five anal-retentive judges. Pray tell, judges, what was it about my quadruple somersault and perfect no-splash landing that made it deserve a 6? My athlete’s promising Hyper Sports career came to an end before it could begin, thanks to his inability to impress five judges who’ve never dipped their toes into a pool.</desc>
+		<image>./images/Hyper Sports (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Konami</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./James Bond 007 (Japan).SG</path>
+		<name>James Bond 007 (Japan).SG</name>
+		<desc>Players control British spy James Bond in his multi-purpose vehicle that can travel both land and sea. Players can shoot lasers upward towards aerial opponents or bullets downwards at other enemies. They must also jump over obstacles and dodge enemy attacks.
+
+There are four missions, each based on a Bond movie. The missions are: Diamonds Are Forever, Moonraker, For Your Eyes Only, and The Spy Who Loved Me. Before each mission begins, the game displays its name, lives remaining, the vehicle, and a message from M stating, "Good luck, Mr. Bond." Each mission has a specific goal, with various checkpoints throughout.
+
+When a player's last life is lost, M bids James goodbye, and the final score is shown.
+
+At the end of the game, the player also received a double-0 rating based on the difficulty of play (novice or agent), and how well the player did. If played at the novice difficulty, the maximum rating was 005, at agent difficulty, the maximum rating was 007.</desc>
+		<image>./images/James Bond 007 (Japan) (v2.7) (OM).png</image>
+		<releasedate></releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Lode Runner (Japan, Europe).sg</path>
+		<name>Lode Runner (Japan, Europe)</name>
+		<desc>In Lode Runner, you play a tormented soul/treasure hunter who must collect every pile of gold he sees on-screen (in the SG-1000 version, the gold looks like wee peppermint candies). There are fifty levels comprised of bricks, ladders and suspended poles. There are also anywhere between three and six guards, er, “guarding” the gold on any given level. The guards will pick up and drop gold anywhere as they see fit, because it’s probably theirs to begin with. Though Lode is always out numbered, he’s able to dig holes in the brick for the guards to fall into. Once lodged firmly in the hole, Lode can walk over said guard like a boss. Also, if the guard had any gold when he fell into the hole, it will automatically pop out of his person. Woe be to the Runner who runs too quickly over a guard after he falls in the hole, for he will fall in after the guard. Also, if the guard is about to emerge from the hole while the Runner is climbing over him, the guard will pull him down into the hole. The holes eventually close, though, so if the guard is still in the hole when it closes, he will die and regenerate randomly at the top of the screen. Often you’ll have to dig hole upon hole to reach gold buried underneath layers of brick, which can be a nuisance when you have guards honing in on you from every direction; such is the life of a gold hoarder. Once all the gold is collected, a separate ladder will appear and the Runner can climb to temporary freedom, bonus points, and puzzles beyond.</desc>
+		<image>./images/Lode Runner (Japan, Europe).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Mahjong (Japan).sg</path>
+		<name>Mahjong (Japan)</name>
+		<desc>Mahjong on the SG-1000 might be tough for newcomers to the game, like myself. But even with my limited understanding, I recognized that Mahjong was bare-bones tile-shuffling – no variants, no flower/season tiles, etc. – as one would expect from a mahjong title circa 1983. I’d say I understood about fifty percent of the on-screen “action,” but I enjoyed placing what I believed to be the proper tiles in the correct order. Unfortunately, there is no multiplayer option to ease the pain of consistently losing to the computer (the computer, she is ruthless). Despite the losses, once my play sessions had ended, I had a finer appreciation of the game proper – a good thing, since Mahjong is but a drop in the sea of mahjong titles that span across all of Sega’s consoles. Given the chance, I’d rather learn and play mahjong in a smoky, dark room against three elderly Chinese opponents. For the time being, SG-1000 Mahjong works just fine.</desc>
+		<image>./images/Mahjong (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Mahjong</genre>
+	</game>
+	<game>
+		<path>./Monaco GP (Japan).sg</path>
+		<name>Monaco GP (Japan)</name>
+		<desc>Despite being named for the esteemed Monaco Grand Prix race, Monaco GP is less a racing game than a driving endurance game. You still drive an F1 car through what I presume are the streets of Monaco (houses litter both sides of the seemingly neverending track), but you don’t have any direct opponents. Rather, you maneuver around other F1 cars who are either just allowing you to win or were paid to go slow and get in your way. The roads change constantly from straightforward to winding to ice-covered. You’ll drive through blacked-out tunnels with only your headlights to inform you where the other drivers are (for some reason, they’ve failed to turn their lights on). You’ll also drive over bridges, some of which have gaps that require you to jump. If you touch another car, you spin out and crash on the side with zero chance of recovery. Thankfully, Monaco GP gives you four cars to start, with an additional car achieved every 10,000 points. The faster you drive, the quicker you receive points. Also, there is no time limit. Drive as fast as you can for as long as you can. Monaco GP isn’t Le Mans, but it is possible to spend many hours going nowhere.</desc>
+		<image>./images/Monaco GP (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./N-Sub (Europe).sg</path>
+		<name>N-Sub (Europe)</name>
+		<desc>N-Sub is an inconsequential arcade port that feels antiquated next to the likes of Borderline or even Safari Hunting.
+
+You control a presumably renegade submarine who has to fend off entire countries’ naval fleets, both above and under the ocean. Your sub can fire torpedoes horizontally at other no-goodnik subs or shoot torpedoes above the water at speedboats and frigates passing by. To proceed to the next level, you’ll have to destroy two waves of six frigates and one wave of enemy “destroyers.” The ships travel slowly from the right side of the screen to the left and make it rain confetti bombs down on you (a ticker-tape parade of death). Due to their take-it-easy attitude, the ships are easy to take out. The destroyers, however, move quickly and travel in loops, making them harder to hit. As you’re attempting to level the navy, the occasional atomic bomb will drop from the sky, and speedboats will pass by with additional confetti blasts. Avoid the distractions, blow up those who oppose you, and proceed to the next round.</desc>
+		<image>./images/N-Sub (Europe) (1988).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega/Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Ninja Princess (Japan).sg</path>
+		<name>Ninja Princess (Japan)</name>
+		<desc>The style of play is top-down horizontally scrolling action, a la Gun.Smoke, Commando, and Ikari Warriors. Since you’re a Ninja Princess (who, by the way, looks nothing like the traditional ninja portrayed in every other game), naturally by mid-80s game logic, your enemies are other ninjas. The enemy ninjas are multi-colored for your convenience: different colors have different attack patterns. Some ninjas jump from rooftops, others imitate rocks, and still others appear ghostlike and chase you down. The ninjas put on a tough front, but if you jam your thumb on the attack buttons and move out of the way of their attacks, your Highness will be fine.</desc>
+		<image>./images/Ninja Princess (Japan).png</image>
+		<releasedate>1986</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Orguss (Japan, Europe).sg</path>
+		<name>Orguss (Japan, Europe)</name>
+		<desc>In Orguss, you play as a robot who can shapeshift into a starship. Both forms have their positives and negatives: the robot is able to shoot faster, but he moves slower and his lengthy frame is ripe to absorb enemy shots; the starship moves quicker and can easily avoid enemy fire, but he can’t shoot as quickly as the robot. The dual-form mechanic is initially awesome, until you notice the time limit in the middle of the screen. You only have two minutes and thirty seconds to complete each round. This is barely enough time to get to the boss and defeat him if you have the faster traveling starship equipped at all times. If you choose to use the easy-does-it robot throughout the round, you’ll run out of time and die for sure.</desc>
+		<image>./images/Orguss (Japan, Europe).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Othello (Japan).sg</path>
+		<name>Othello (Japan)</name>
+		<desc>In Othello, you transform your opponent’s black/white pieces into the opposite color. Each game starts with two white pieces and two black pieces laying next to each other in diagonal formations. Let’s say your opponent is white and you’re black (because black is the color of coffee and a moonless sky and dark chocolate and is therefore superior – also I’m aware that black and white aren’t really “colors,” but for the sake of this review and my mind, they are). You effectively trap white pieces between black pieces, and the white becomes black. Of course, white can do the same to your black, so you gotta be careful where you place your pieces. Just because a move intially overturns a dozen pieces and looks like it will win you the game doesn’t mean it will. Take note of where the computer might lay their piece after you’ve laid your piece, and you’ll stand a better chance than if you let the pieces fly where they may.
+
+Sega’s SG-1000 version is actually a re-worked version of Tsukuda Original’s Othello, included in the hardware of their SC-3000 clone, the Othello Multivision. While I wasn’t able to find the BIOS of the Multivision to compare the two versions, the SG-1000 version is clean, fast, frustrating, and simultaneously playable with a friend. In other words, it’s everything I expect and want from a video game port of Othello. The only complaint I have is the lack of increased challenge within the five difficulty levels. Level 1 was no more or less challenging than Level 5, which doesn’t make a lick of sense.</desc>
+		<image>./images/othello.jpg</image>
+		<releasedate>1983</releasedate>
+		<developer>Tsukuda</developer>
+		<publisher>Sega</publisher>
+		<genre>Board Game</genre>
+	</game>
+	<game>
+		<path>./Pacar (Japan, Europe).sg</path>
+		<name>Pacar (Japan, Europe)</name>
+		<desc>Pacar would probably be considered just another Pac-Man clone/rip-off – one of many to emerge in the early 1980s – if it didn’t bear some relation to Sega’s own 1979 arcade title, Head On. In Head On, you maneuver a white car around a maze, collect pellets, and avoid a red car that’s trying to crash into you. Sounds like the misadventures of the half-eaten pizza creature we all know and love, but Head On actually emerged a year before Pac-Man‘s release and is considered one of the earliest maze games to exist. Pacar expands upon Head On‘s simplistic formula – race cars, pellets, mazes, explosions – while also acknowledging the impact Pac-Man had on the maze genre and arcade games in general.
+
+Pacar begins similarly to Head-On: control a green car around a maze of winding roads, collect red pellets, and avoid the blue car. The blue car is dangerous, but not necessarily aggressive until later rounds. The red car, however, won’t rest until it hunts you down, though it only appears after you’ve collected a certain number of pellets. Unlike Pac-Man, who can turn on a dime and move quickly in any direction, your green car can’t move in reverse without significantly reducing his speed (just like a regular car – the realism!). Your car’s limitation forces you to be more aware of your surroundings and drive forward as much as possible; any slow, sharp turn in reverse could be your life. As you drive around the level, you’ll notice larger red pellets stashed under the smaller ones (early game logic at its finest). Drive over the large pellets and your green car will transform into an unstoppable Super Car for a few seconds. Super Car can destroy enemy cars with a single touch, but the enemy cars will quickly re-spawn at a location in the center of the screen. The more cars you destroy in a row, the higher point combo you receive. Interestingly, while Pac-Man and Pacar both use large pellets to change in-game circumstances, Pacar uses them to enhance the protagonist’s strength, while Pac-Man employs them to weaken Pac’s enemies, the ghosts. After you’ve completed Pacar‘s two mazes, they repeat in a series of never-ending rounds. More blue cars are added with each subsequent round, making for a truly dangerous, chaotic rush-hour experience, but the pellet-collecting gameplay remains the same.</desc>
+		<image>./images/Pacar (Japan, Europe).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Pachinko (Japan).sg</path>
+		<name>Pachinko (Japan)</name>
+		<desc>For those unfamiliar with Japanese culture, pachinko machines are like a mix between pinball and slot machines, and they’re used primarily for gambling. Imagine a small upright pinball machine littered with pins, a handful of holes, and no flippers to propel the balls upward. The player purchases a certain amount of balls and launches them as slowly or quickly as they’d like. The balls drop through the pins and into the hole at the bottom, and occasionally, into the holes strewn about the machine. Most holes activate a small number of extra balls to be released, but the hole in the center of the machine activates a slot device. Getting three-of-a-kind in the slot device triggers a jackpot of balls, at which time, the player trades in his balls for prizes or continues to fling balls. Gambling for cash is illegal in Japan, but the prizes one receives from the pachinko parlor can be exchanged for cash at locations near the parlors. I’ve never been to an  pachinko parlor myself, but from the testimonials I’ve read, the police do not care that these tricksy shenanigans continue unabated. Once again, the system fails.</desc>
+		<image>./images/Pachinko (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Gambling</genre>
+	</game>
+	<game>
+		<path>./Pachinko II (Japan).sg</path>
+		<name>Pachinko II (Japan)</name>
+		<desc>The original Pachinko‘s machine design was standard, if underwhelming: there were two blue/green holes, three red cups, four spinning wheels, and a slot machine in the middle. Land the ball in any of the holes/cups and you gained an extra ten balls. Get the ball in the slot machine and you received an additional ten balls, plus the potential to win more if you aligned three of the same numbers. The spinning wheels were purely to mess up your ball’s trajectory. This machine has been recreated in full with a slightly different color palette in Pachinko II, so if you never, uh, “experienced” the original Pachinko, this is it. Pachinko II‘s two new machines are mostly comprised of re-arranged elements of the first table, save for one new addition: the plane. In both of the new machines, the plane sits in the middle and, once triggered, begins to lift and lower its wings in rapid burst. If a ball lands on the wings and enters into the plane, you receive an additional ten balls. When lowered, the plane’s wings extend horizontally into the machine. Adjust the launch dial just right, and you can easily fire a bunch of balls into the plane, accumulating hundreds of extra balls in the process (see screenshot below). Of course, winning hundreds of balls means nothing without being able to cash them in, but at least it gives you a temporary self-satisfaction.</desc>
+		<image>./images/Pachinko II (Japan).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Gambling</genre>
+	</game>
+	<game>
+		<path>./Pitfall II - The Lost Caverns (Japan).sg</path>
+		<name>Pitfall II - The Lost Caverns (Japan)</name>
+		<desc>The SG-1000 version doesn’t look as nice as the arcade. Harry in particular looks like a salary man on his way home from work. All in all, though, the game has a brighter and cleaner look than most SG-1000 titles. Harry controls like a boss too. Precise jumps are key in the Pitfall series and the game pulls them off well. The only issue I have with the game is how Harry automatically falls through holes, even if a ladder is placed under the hole. I know this “falling through holes” mechanic is integral to how Harry progresses through the cavern, but compared to Pitfall II‘s overall elegance, it feels downright awkward.</desc>
+		<image>./images/Pitfall II - The Lost Caverns (Japan) (Alt).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Activision</developer>
+		<publisher>Sega</publisher>
+		<genre>Platformer</genre>
+	</game>
+	<game>
+		<path>./Pop Flamer (Japan, Europe).sg</path>
+		<name>Pop Flamer (Japan, Europe)</name>
+		<desc>Pop Flamer is about a mouse that happens to be named Pop Flamer. He pops balloons to progress to the next level. He charbroils his enemies – frogs, dragons, and Muppet rejects – with a flamethrower. When he drinks from serums located at both the top and bottom of the stage, he becomes Super Mouse (not Super Flamer?) and crushes his enemies simply by touching them. Pop Flamer the mouse is a bad-ass. The premise of Pop Flamer the game is bad-ass. Who wouldn’t be hyped to play a flame thrower-wielding mouse, presumably out for revenge and all the balloons he can pop?
+
+Unfortunately, Pop Flamer‘s fantastic, 80s-riffic premise is undermined by stiff controls and overbearing difficulty. The enemies are stupid, aggressive, and outnumber you four to one. Yes, you have a flamethrower, but your maneuverability is limited, thanks to cramped stage layouts and overabundance of enemies. Should you set the creatures ablaze (it’s a little disturbing to watch a smiling frog go up in flames), they immediately regenerate from a door in the middle of the level, leaving you little resting time. After a few creature bonfires, your flamethrower’s reach will shorten. Pop balloons to refill the flamethrower, but don’t be surprised if some balloons don’t pop, even as you walk over them. After several playthroughs, I noticed that it was best to approach and pop each balloon from a different angle, though I never understood why. Drinking the serum to turn into Super Mouse was a pointless endeavor, as well. Even if you place Pop next to the serum and press buttons like mad, he won’t drink at all. Despite my best efforts (the serum has a straw coming out of it, for crying out loud!), I never saw Pop turn into Super Mouse. This led me to believe that Super Mouse, like Pop Flamer itself, was an unrepentant sham.</desc>
+		<image>./images/Pop Flamer (Japan, Europe).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Rock n' Bolt (Japan).sg</path>
+		<name>Rock n' Bolt (Japan)</name>
+		<desc>Were construction worker-themed puzzle games all the jam back in the mid-80s? Nintendo had Wrecking Crew, and Activision had Rock N’ Bolt. Now, two games might not sound like a lot, even for a sub-sub-genre of gaming (perhaps there were more, these are the only two I’m aware of). But can anyone truthfully say they expected hard-hat wearing, cortex-wringing action in a video game at any time, let alone two separate games released within a year of each other (Wrecking Crew burst onto the Famicom in June of ’85, while Sega ported Rock n’ Bolt to the SG-1000 sometime the same year)? Wrecking Crew‘s bizarre personality – Eggplant Men! Robotic Foreman! Walking Wrenches – makes it the better of the two games, but Rock n’ Bolt‘s quiet charm isn’t to be denied.
+
+You play as a generic construction worker and your job is to bolt down moving platforms within a certain time limit. All the platforms move in set patterns at different speeds. To reach platforms on the far end of the level, you’ll often need to ride a platform to the back end of the “job site,” bolt the platforms down at an appropriate location (one where you’re not stuck out in the middle of black space), then move forwards back to the starting point. In other words, it’s almost always better for you to bolt backwards to forwards. If you do happen to bolt a platform in the wrong location, unscrew the bolt and the platform will begin to move again.</desc>
+		<image>./images/Rock n' Bolt (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Activision</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Safari Hunting (Japan).sg</path>
+		<name>Safari Hunting (Japan)</name>
+		<desc>If you have any affinity for animals whatsoever, Safari Hunting may rub you wrong.
+
+You play a poacher who tranquilizes animals in their natural habitat, then sells them for profit. The more animals you collect in your Jeep of Ill Intent, the more money you receive. There are four different animals to tranq, ranging from small to huge: snakes, gorillas, lions, and elephants. Snakes take two shots, gorillas take three, lions four, and elephants five. Once you knock out the animals, you have thirty seconds to drag them (ever so slowly) back to your jeep. If the animal wakes up before you reach your jeep, they understandably freak out and kill you. While you knock out animals, you also have to keep an eye on your jeep’s fuel gauge. The only way to refill your depleting fuel is to throw one of every type of animal into your jeep. Once the jeep has been filled with one of each animal, the fuel gauge refills and you can go about your evil way. In order to progress to the next round, though, you have to tranq one of every type of animal on-screen and leave them on the ground. Don’t take them back to your jeep or you’ll be stuck on Round 1 forever.</desc>
+		<image>./images/Safari Hunting (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Safari Race (Japan).sg</path>
+		<name>Safari Race (Japan)</name>
+		<desc>Safari Race should be the sequel to Safari Hunting, but – spoiler alert – it isn’t. Whereas the latter was Sega’s love letter to poaching, the former is a one-man trek through the African Savannah in a sleek mid-80s sports car. Speeding on a highway by yourself was a pretty standard idea in gaming circa 1984, but imagine an alternate Safari Race where you drive alongside rhinos, elephants, and gazelles in miniature sports cars. As you approach said wildlife, you choose whether to shoot them for bonus points (you monster) or let them go free and get more fuel (both saving and destroying Earth’s precious resources). Too ambitious? Probably! Still, I’d rather play ten ambitious disasters than travel through the Land of Uninspiration that is Safari Race again.</desc>
+		<image>./images/Safari Race (Japan).png</image>
+		<releasedate>1984</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Sega Flipper (Japan, Europe).sg</path>
+		<name>Sega Flipper (Japan, Europe)</name>
+		<desc>There are four bumpers, three rollover targets, a handful of side targets that give you some stray bonus points, two mini-flippers in the left-hand corner, and the occasional blinking target that appears in sporadic places. As I started my first game, the ball bounced quickly and effortlessly between bumpers and targets in rapid succession. I racked up streams of points, and my waning self-esteem was given a much-needed boost. The excellent science-fiction sound effects brought me further into the game’s neon clutches. Then just as quickly, just as effortlessly, the ball dropped down into the darkness below the flippers, despite my best efforts to elevate it back to glory. Three balls later, the game was over, and the spell was broken.
+        
+        There are few video pinball aficionados left in the gaming scene today, and fewer still that remember Sega Flipper. Sure, the game was an SG-1000 exclusive, which severely limited whatever impact it could have had, but it also lacks the freaky 70s creativity – heck, any creativity – that Sega invested in its actual pinball machines. Early example of the genre or not, Sega Flipper remains one of many unfortunate testaments to how poorly Sega treated its first home console.
+        </desc>
+		<image>./images/Sega Flipper (Japan, Europe).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Pinball</genre>
+	</game>
+	<game>
+		<path>./Sega-Galaga (Japan).sg</path>
+		<name>Sega-Galaga (Japan)</name>
+		<desc>I consider Galaga to be one of the greatest games of all time, so I was equally excited and skeptical to play Sega’s take on Namco’s classic shooter. While I never pass up an opportunity to destroy legions of hideous space bugs, Sega hadn’t exactly been kind with some of their own arcade ports for the SG-1000, let alone other companies. Would Sega butcher Galaga the same way they butchered Congo Bongo? The answer is yes and no. Sega Galaga lacks the detail and vibrancy of the arcade original, and the port omits the Challenging stages, which could be a deal breaker for some. Basic Galaga gameplay – shooting waves of dive-bombing creatures – is replicated in full, but the port’s slight difficulty increase means Sega Galaga isn’t a Galaga for greenhorns.
+        
+        In both Galaga and Sega Galaga, you use the provided white ship to destroy every single con sarnin’ space bug that shows itself. The ship is in a fixed position at the bottom of the screen, which means it can move left or right, but not forward or backward. As the level begins, lines of creatures emerge from the sides of the screen and stack themselves atop one another in groups, then proceed to shoot and kamikaze towards your ship with unfettered schoolboy abandon. Each species of creature has distinct moving patterns, but one in particular – the crab-like green fellas – will plummet down and release a tractor beam that can capture your space ship. Unless you’re on your last life, let your ship get captured. Once the crab fella who has your ship flies towards you, destroy it, and your once-captured ship will proceed to fight alongside your current ship, giving you double the fire power. Galaga also has bonus “Challenging” stages, where groups of enemies will fly onto the screen in set patterns, but won’t attack or fly into your ship. Shoot all the enemies and you’ll receive a 10,000-point bonus (perfect for extra lives); otherwise, each enemy you shoot is worth 100 points. Galaga continues until you lose all your lives or beat level 255. Achieve the latter and you’ll be crowned King of the Galagaxy. The title is an honor, until you realize there’s no such thing as a “Galagaxy.”
+
+Besides the removal of the challenging stages (likely due to cartridge size limitations) and the off-model, poorly sprited creatures, Sega Galaga‘s screen isn’t as long as the original’s, which means when the creatures emerge, they stack themselves closer to your ship. The creatures also come at you faster and shoot more bullets at you than the arcade version. As a result, Sega Galaga becomes difficult in the earlier stages, unless you’re able to get double ships for double firepower. Even then, the enemies seem to behave even more violently if you have double ships, a feature I didn’t notice in the arcade. Basically, Sega Galaga is a neat option for hardcore fans looking to test their mettle, but those looking for the complete Galaga experience should play the arcade game or NES version.</desc>
+		<image>./images/Sega-Galaga (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Serizawa Hachidan no Tsumeshogi (Japan).sg</path>
+		<name>Serizawa Hachidan no Tsumeshogi (Japan)</name>
+		<image>./images/Serizawa Hachidan no Tsumeshogi (Japan).png</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Shinnyushain Tooru Kun (Japan).sg</path>
+		<name>Shinnyushain Tooru Kun (Japan)</name>
+		<desc>Serizawa Hachidan no Tsumeshogi, besides being a mouthful, is one of the hardest games I’ve ever played. Yes, this is partially because I’m a honky who had no working knowledge of shogi until I was forced to play this game. But regardless of one’s skin color or insight into Eastern chess variants, I would wager that Tsumeshogi is hard because the puzzles are exact and precise – to a fault, depending on your predilection for shogi exercises. As I quickly discovered, in order to even comprehend the basics of Tsumeshogi, you must understand shogi, a Japanese version of chess with slightly different rules and vastly different play styles. Take time to learn the kanji draped over every piece or at least memorize the placement of each piece and what their actions are; there is no romaji (Japanese words transliterated through Romanized spelling) under the kanji to ease you into the game. If you’re interested in learning the details of shogi, I recommend the website Ancientchess.com’s excellent how-to-play article.
+        
+        Thanks to Google Translate and smspower.org, we have a bonus: the translation of the text on the back of the Serizawa Hachidan no Tsumeshogi box: “In Tsume-Shogi you think of professional players, to challenge your brain. Think slowly because there is no limit of time, and intend to move to the next problem. Once you’ve clogged the king, you win. Problems for beginner, intermediate and advanced difficulty. Ability of you there, and what stage.” Challenge your brain, intend to progress, clog the king, problems in every difficulty, you there: ’tis the essence of Tsumeshogi, maybe.
+        </desc>
+		<image>./images/Shinnyushain Tooru Kun (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Table</genre>
+	</game>
+	<game>
+		<path>./Sindbad Mystery (Japan, Europe).sg</path>
+		<name>Sindbad Mystery (Japan, Europe)</name>
+		<desc>Sindbad Mystery is yet another forgettable Sega arcade port, a pseudo-isometric Pac-Man clone with poor handling and curious Arabic spelling of the name ‘Sinbad.’ You control Sindbad the Sailor – he of the famous Middle-Eastern adventure stories – across three square-shaped, multi-colored mazes in search of treasure. The mazes contain stairs to higher platforms, hidden passageways, monsters, boulders which you roll to squish said monsters, and most importantly, question marks. Avoid the monsters, collect the question marks to uncover the map on the side of the screen, and reveal the treasure somewhere in the maze. Sounds simple, but Sindbad controls like he has eons of sand stored up in his poofy pants. He would often get stuck on corners or just not respond at all to my input. The SG-1000’s built-in SJ-200 controller is known for its faulty joystick, but I was using the D-Pad on my Wii Classic Controller and Sindbad still couldn’t turn effectively. At any rate, once the treasure’s been uncovered, a skull appears a la Adventures of Lolo-style and chases Sindbad. Gather the treasure and move on to the next maze. After the third unique maze, Sindbad Mystery repeats back to the first level with more aggressive monsters and… that’s it. The additional monster blood lust combined with the terrible controls ensures that you won’t get far past the fourth level, but if your opinion of Sindbad Mystery is anything like mine, you won’t really care.</desc>
+		<image>./images/Sindbad Mystery (Japan, Europe).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Soukoban (Japan).sg</path>
+		<name>Soukoban (Japan)</name>
+		<desc>In Soukoban, you play as a construction worker who has to push boxes to a certain location in a warehouse. This sounds simple, but from the first stage onwards, Soukoban commands you solve its strict, unforgiving puzzles in a very particular way. Since you can only interact with the boxes through pushing them (no pulling or lifting), each move must be carefully considered prior to execution. The boxes are usually clustered near each other, sometimes placed in layers. You’ll often have to push boxes in directions that don’t initially make sense in order to “free” other boxes. If you accidentally push a box into a direction or placement from where it can’t be recovered, you’ll have to restart the level all over again. Never have the words “trial and error” so readily applied to a game.</desc>
+		<image>./images/Soukoban (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Thinking Rabbit</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Space Armor (Japan).sg</path>
+		<name>Space Armor (Japan)</name>
+		<desc>Like Tsukuda Original’s Space Mountain, Space Armor blazes unforeseen trails of terrible in the shoot-em-up genre. Ostensibly a Xevious clone where one attack is air-based and the other attack is ground-based, Space Armor barely functions under its own limited power. The sound effects interrupt the repetitive droning music. The graphics are a mixture of black space and poorly rendered hexagons. The vertical scrolling is the slowest I’ve ever witnessed in a shoot-em-up. And there’s no pause feature. Space Armor might not be challenging, but the production reeks with a pitiful self-loathing, as if the game can’t even bear to acknowledge its own existence. I hate Space Armor and so should you.
+
+F-</desc>
+		<image>./images/spacearmor.jpg</image>
+		<releasedate></releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Space Invaders (Japan).sg</path>
+		<name>Space Invaders (Japan)</name>
+		<desc>It took my desire to play every Sega game on every console to force me to play Space Invaders for the first time. To Sega’s credit, the SG-1000 port is solid. The aliens, shields, and the laser cannon have been rendered in glorious Technicolor (well… SG-1000 color, anyway). The laser cannon glides smoothly across the bottom of the screen. The music, such as it is, remains tense and ominous. And the game is hard. The lasers the aliens shoot travel fast to your laser cannon’s brain. I had to train myself to move the cannon every time I saw a laser fall from the aliens’ centers, regardless of if the laser was close to me or not. Also, when that last alien came high-tailing it down in my direction, it took all my self-control not to throw the controller at the screen. Buggers move fast.</desc>
+		<image>./images/Space Invaders (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Taito</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Star Force (Japan).sg</path>
+		<name>Star Force (Japan)</name>
+		<desc>The Famicom version of Star Force is one of my favorite vertical shoot-em-ups of all time. While the game is a traditional one-ship-against-all-of-space affair, it distinguishes itself in the details. Star Force has the perfect cruising speed (not Warp 9, not chugging in space), waves of enemies with interesting and varied patterns, the right amount of explosive distractions on the surface of the planets, excellent difficulty progression with mid-level and end-level bosses that break up the otherwise straight shooting, and a single power-up that lets your ship go HAM just by holding down the ‘A’ button. Star Force doesn’t call attention to itself with flashy graphics or a killer metal soundtrack, but its steady pace and addictive gameplay have had me coming back for more some two decades after first playing it.
+
+Understandably, the SG-1000 version doesn’t have the horsepower behind it to compete with the Famicom version, but I’m still surprised at what Sega’s technical wizards achieved with their ailing console. The background scrolling is choppy, but not as choppy as it could be. The background movement combined with your ship, the waves of enemies, and the scores of pointy bullets – all of which are in the foreground, usually at the same time – the game runs smoother than one might expect.
+
+Of course, smooth scrolling doesn’t allay Star Force‘s egregious difficulty. The SG-1000 version, like the inferior NES port, is much harder than the Famicom version (which was challenging enough), thanks to the all-encompassing spray of bullets the enemies spew at you. The enemies shot lots of bullets in the Famicom version also, but never to the point where you couldn’t navigate around them. Once you get the game’s lone power-up, you’ll be able to shoot bullets faster, thus allowing you to destroy the enemies before they can surround you with their bullets. If you die, however, your power-up disappears and you’re back to surviving badly.
+
+All told, I was impressed with Sega’s perfectly playable port of Star Force, but compared to the Famicom version (which was released in 1985 as well), the game feels like a relic. Choppy scrolling and overwhelming difficulty are nowhere to be found on the Famicom. Also, the latter just looks better, sounds better, plays better. In light of Nintendo’s superior machine, Star Force is, if nothing else, a grim reminder of the SG-1000’s limited abilities.</desc>
+		<image>./images/Star Force (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Tekhan</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Star Jacker (Japan, Europe).sg</path>
+		<name>Star Jacker (Japan, Europe)</name>
+		<desc>Enter Star Jacker, the first SG-1000 game I’ve played that takes advantage of the system while remaining fun in the process. It’s a vertically scrolling shoot-em-up with a distinct hook: you control all four of your space ships/lives at the same time. The ships are hooked together in a caterpillar formation, and they shoot bullets and drop bombs independently of one another as they bob and weave across the screen. If any ship is hit, regardless of its placement in the formation, it’s destroyed and the game continues until all ships are destroyed. There are two fields of play, each with its own energetic musical ditty: each stage begins in the dark recesses of outer space, then moves forward into some sort of space station cubby with what appear to be light posts on the outer edges. Both fields are teeming with your standard shmup enemies circa early 80s: circles, triangles, the occasional green space ship, but mostly shapes that twist about the screen in awkward, jagged movements. Get halfway into each level with two or more ships intact and a boss will appear, a red turret that spits out white pellets and dominates the screen. Destroy it, and your ships will enlarge to ridiculous proportions, speed through the rest of the level without being hurt and collect massive amounts of points along the way.</desc>
+		<image>./images/Star Jacker (Japan, Europe) (v1.2).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Super Tank (Japan).sg</path>
+		<name>Super Tank (Japan)</name>
+		<desc>Super Tank made me ask the question, “Why am I playing this?” more times than I’d like to admit. I mean, I knew why I was playing the game. I agreed to review every game on every Sega console, and by gar, I’m stickin’ to it. Rather my question digs at Super Tank‘s reason for being: why was this game ever released? The sludgy controls, faded denim graphics, and half-working mechanics hearken back to the SG-1000’s beginnings, not its surprisingly solid latter years.
+
+In Super Tank, you control a tank whose “super” status is faulty at best. Its “powers” range from shooting directly in front of him (button 2), to shooting in any direction (button 1), to launching missiles that may or may not fly and land in the direction you point them (both buttons). These attacks get the job done, for the most part, but you can never fire fast enough to satsify the oncoming enemy military. Tanks, helicopters, mechs and other assorted vehicles will never stop coming. If you make a point to destroy every enemy you see on the screen at any given time, ten more will emerge to take their place. I suppose that’s war, but the problem with this onslaught is that there’s no reason for it. If you wanted to, you could move your tank past the enemy forces and progress to the boss with little trouble. There’s no objectives and no time limit. So unless you want to keep firing at the same repeating tanks, at some point, you’re probably going to get fed up and move on.</desc>
+		<image>./images/Super Tank (Japan).png</image>
+		<releasedate>1986</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>1986</genre>
+	</game>
+	<game>
+		<path>./Wonder Boy (Japan).sg</path>
+		<name>Wonder Boy (Japan)</name>
+		<desc>Without knowing the series history, one might view the original Wonder Boy as an innocuous early platformer and nothing more. You play as Tom-Tom the caveman, and your objective is to save your girlfriend, Tanya, from the clutches of the evil cave-dwelling overlord, Drancon. Tom-Tom runs, jumps, throws hatchets, collects fruit to prevent his vitality meter from depleting, and rides skateboards that hatch from eggs. He’s the most enduring and energetic caveman in all of gaming this side of Bonk (sorry Joe, and to a lesser extent, Mac), but where he went after this, no one could have predicted.
+        
+        If Tom-Tom sounds suspiciously like Master Higgins from Adventure Island, well, that’s because Tom-Tom is Master Higgins from Adventure Island. While the Wonder Boy games were published by Sega, Westone Bit Entertaniment (known as Escape during this time) held control over the source code which allowed the game to be published on different systems. Details are murky as to how Hudson Soft obtained the rights to Wonder Boy during this time. Perhaps Westone licensed out the code or perhaps they had a contract with Hudson alongside their Sega alliance. Either way, Adventure Island on the NES was the result of this partnership.
+        
+        Wonder Boy‘s hop-and-boppery somewhat resembles Super Mario Bros, but the game has enough to distinguish it from the era’s golden prince of platforming. The vitality meter, located at the top of the screen, is perhaps the most unique feature of the game. As you run through a level, the meter dwindles, especially if you trip over a boulder or fire in your path. Vitality can only be recovered by eating copious amounts of fruit, but the game provides enough fruit for a small country to get diabetes, so no worries there. Wonder Boy can only be hit once unless he’s riding a skateboard. Skateboards both propel you through a level and count as a second hit. Eggs scattered throughout the stage are the way to obtain power-ups, like the skateboard. Fairies, which grant temporary invincibility, will also be hidden in eggs, along with the occasional Grim Reaper who lingers behind you and drains your vitality meter, like the ripe bastard he is. Creepy-looking bonus dolls can also be collected in every stage. If you collect them all in the Master System version, an additional world will be unlocked.
+        </desc>
+		<image>./images/Wonder Boy (Japan).png</image>
+		<releasedate>1986</releasedate>
+		<developer>Escape</developer>
+		<publisher>Sega</publisher>
+		<genre>Platformer</genre>
+	</game>
+	<game>
+		<path>./Yamato (Japan, Europe).sg</path>
+		<name>Yamato (Japan, Europe)</name>
+		<desc>In Yamato, you control the WWII battleship Yamato and sink rows of slowly moving ships and planes with cannon blasts and bullets, respectively. Aim the two cursors in front of the battleship – a ‘+’ for bullets and an ‘X’ for cannon blasts – at whichever moving convoy you wish to explode and let ‘er rip. It might take a couple shots before a ship is turned into flaming wreckage, but you have unlimited ammunition for both attacks, so don’t hold back. While taking down what I presume is the US military circa 1942-’44, dodge or destroy the missiles launched from the ships and planes. The battleship Yamato extends halfway out of the bottom of the screen and is able to glide effortlessly back and forth, despite the notable handicap of being a 50,000-ton battleship. The more ships and planes you destroy, the more stars you accumulate at the bottom of the screen. Gather enough stars (anywhere between 15-20) and the level changes. The battle begins in the afternoon in level 1, rages on through dusk in level 2, then comes to a head in the dead of night in Level 3. Make it past level 3 and the stages repeat, but the missiles drop quicker and the ships and planes sail and fly faster until you inevitably can’t fend them off anymore, just like the real battleship Yamato.
+        
+        If Yamato sounds vaguely familiar, that’s because it’s the spiritual successor to a previous SG-1000 game, N-Sub. While N-Sub has you piloting a submarine and Yamato a battleship, both games take place in the ocean and ask you to blow up slowly moving rows of ships while dodging missiles launched from said ships. In N-Sub, however, there was no sense that you were progressing: no background changes, no difficulty increase, nothing except the same rows of ships repeated ad tedium. Yamato‘s faster gameplay coupled with a steady sense of progression (time changes between levels, faster missiles to avoid, etc.) is a huge improvement. That being said, both Yamato and N-Sub are shallow arcade ports that don’t entertain beyond a ten-minute window of time. There are better more addictive arcade titles out there. For the SG-1000, though, Yamato ain’t half-bad.
+        </desc>
+		<image>./images/Yamato (Japan, Europe).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Zaxxon (Japan).sg</path>
+		<name>Zaxxon (Japan)</name>
+		<desc>The SG-1000 port of Zaxxon slightly improves upon the game’s foundation, even as it’s unable to replicate the graphical achievements of the arcade. Although the SG-1000 does an adequate job of recreating the isometric perspective (unlike the worthless Congo Bongo port from two years prior), the scrolling is choppy and might be considered atrocious, if it didn’t allow your ship to fly through the fortress with a greater amount of ease. Whereas Zaxxon arcade focused more on piloting your ship through a compact and tightly woven space fortress, Zaxxon SG-1000 is about destroying as many fuel drums as you can. The surface of the fortress isn’t filled with nearly as many elements as it was in the arcade. Homing missiles are gone, thank God. Turrets and electrical barriers remain, though they’re not as difficult to navigate through. Most importantly, you’re never left wondering what altitude your ship is in the SG-1000 version. Because of the sparse fortress surface, your ship only needs to be settled directly on the surface or high above the brick walls; only when you encounter an electrical barrier do you need to place your ship’s altitude in the middle.
+        
+        The problem with the SG-1000 port is that it becomes stale quickly. The levels are essentially the same, and the goal of destroying enemy space craft before advancing has been eliminated. Revel the prospect of blowing up legions of fuel drums and going through electrical barriers ’cause that’s all this version of Zaxxon has to offer. The port remains a marginally better take on the arcade, but without any significant challenge to frustrate or gee-whiz special effects to distract, Zaxxon is yet another example of how limited the SG-1000 actually was.
+        </desc>
+		<image>./images/Zaxxon (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Zippy Race (Japan).sg</path>
+		<name>Zippy Race (Japan)</name>
+		<desc>In Zippy Race, you guide a racer on a motorbike from Los Angeles to New York and parts betwixt. There are five levels total – L.A., Las Vegas, Houston, St. Louis, and Chicago – before you reach your final destination of the Big Apple. Each level consists of two portions: a top-down section comprised of homicidal motorists, sharp twists and turns, and road obstacles – cacti and boulders in the desert landscape of Las Vegas, for example; and a behind-the-biker approach that showcases your current destination while cars drive head-on towards you. The motorists have intriguing A.I.: while they will try and crash into you, you’ll often have to drive close to them to get them to cease their movement towards you. Driving your cycle close to an oncoming car is counter-intuitive, but the idea that a car will stop proceeding towards your cycle the closer your cycle gets is eerily similar to how the road operates in reality. Unlike real life, you can crash your bike as much as you want without losing a life, but every time you crash, your ever-dwindling fuel meter lowers a bit more. Run out of fuel and the game’s over. Thankfully, there are additional gas cans you can collect on the road. As you drive, you’ll also gain ranks for every car you pass. The more cars you pass, the higher your rank at the end of the stage. The higher your rank, the more bonus points you receive, bonus points which elevate your fuel for the next stage. That’s right, you don’t get a full tank upon completion of a stage. You have to earn fuel. Fuel equals respect, and respect is never purchased with money unless you’re a celebrity.</desc>
+		<image>./images/Zippy Race (Japan).png</image>
+		<releasedate>1983</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Zoom 909 (Japan).sg</path>
+		<name>Zoom 909 (Japan)</name>
+		<desc>Zoom 909 isn’t just about blowing up spaceships. It’s about how cool you can look while blowing up spaceships. See, instead of destroying ships from the standard two-dimensional vertical/horizontal perspective, the camera is positioned in a third-person perspective behind your ship. That means enemies will sail towards you and it will appear as if they’re three-dimensional and they’ll leap off the screen and blast your face in! In reality, the enemies are 2D sprites “scaled in real time to give an illusion of depth” (Source). I’m quoting that because I’m not entirely sure what it means, but I know it’s true, and knowing is half the battle.
+
+Each round in Zoom 909 is comprised of four parts: the bordered trench portion, the wide open plain portion, the-portion-that’s-basically-Asteroids-but-a-lot-harder portion, and a final boss. In the bordered trench section, you’re surrounded by green walls and floors that scroll by at seemingly tremendous speeds, while multi-colored enemy spaceships race towards you. Shoot the ships, don’t crash into the walls.</desc>
+		<image>./images/Zoom 909 (Japan).png</image>
+		<releasedate>1985</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+</gameList>
